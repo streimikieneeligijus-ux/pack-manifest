@@ -1,0 +1,24 @@
+
+#What this machine draws
+[visuals]
+	#The radial smear across the screen when the circle fires.
+	#This one copies the framebuffer and runs a shader over it. If another
+	#mod owns the pipeline -- Optifine, Iris, a shaderpack -- turn it off.
+	screenDistortion = true
+	#The white wash over the screen at the moment of firing.
+	screenFlash = true
+	#How finely the circles are tessellated.
+	#2 is what the spell was drawn for; 1 halves the segment counts;
+	#0 draws the rings and the beam and skips the ornament.
+	#Range: 0 ~ 2
+	detail = 2
+	#Draw the first eight ultimates -- Grand Sigil, Sunfall, Skybreak, World Tree,
+	#Gates of Heaven, The Gaze, Grip of the Void, The Colosseum -- the way 1.5.0 redrew
+	#them, instead of the way they have always looked. Only the look changes; what they
+	#do is the same either way. Takes effect as soon as the file is saved, no restart.
+	#There is also a gamerule, /gamerule grandsigilRemadeEffects true, that does this
+	#for everyone in a world; either one is enough. In single player this file also
+	#switches the particles; on a server those follow the gamerule.
+	#A graphics driver that cannot build the redraw's shaders keeps the original look.
+	remadeEffects = false
+

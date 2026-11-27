@@ -1,0 +1,23 @@
+
+["双刀流设置 / Dual Wield Settings"]
+	#是否开启三刀流 / Enable three-sword style
+	enableThreeSwordStyle = true
+	#是否开启九刀流 / Enable nine-sword style
+	enableNineSwordStyle = true
+	#副手刀伤害倍率 (0~1) / Offhand sword damage multiplier (0~1)
+	#Range: 0.0 ~ 1.0
+	offhandDamageMultiplier = 0.75
+	#头刀触发概率 / Head sword damage chande (0~1)
+	#Range: 0.0 ~ 1.0
+	headDamageChance = 0.5
+	#头刀伤害倍率 (0~1) / Head sword damage multiplier (0~1)
+	#Range: 0.0 ~ 1.0
+	headDamageMultiplier = 0.5
+	#九刀乱斩伤害倍率 (0~1) / Nine Sword Rampage damage multiplier (0~1)
+	#Range: 0.0 ~ 1.0
+	nineSwordRampageMultiplier = 0.35
+	#检测到 LegendRelicLib 时，关闭它自己的简单双持补刀光 / Disable LegendRelicLib's built-in extra offhand slash
+	disableLegendRelicLibBuiltInDoubleAttack = true
+	#检测到 LegendRelicLib 时，只有带 can_double_attack 标签的副手刀能进入双刀流 / Require its can_double_attack tag for offhand dual wielding
+	useLegendRelicLibDoubleAttackTag = true
+

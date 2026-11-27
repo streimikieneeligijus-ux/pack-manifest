@@ -12,7 +12,7 @@
    "path": "config/MouseTweaks.cfg",
    "size": 135,
    "sha1": "651b3e4db2d430dc1da3566b2984b264061a6794",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/MouseTweaks.cfg"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/MouseTweaks.cfg"
   },
   {
    "path": "config/ProjectE/client.toml",
@@ -24,55 +24,55 @@
    "path": "config/ProjectE/common.toml",
    "size": 664,
    "sha1": "ec8fbaed3d0200daf1d08a2ea58fa2b37306753f",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/ProjectE/common.toml"
   },
   {
    "path": "config/ProjectE/custom_emc.json",
    "size": 5943,
    "sha1": "05bcfaf0360d48a795e6db3c20d60b40e26f3f38",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/ProjectE/custom_emc.json"
   },
   {
    "path": "config/ProjectE/mapping.toml",
    "size": 2345,
    "sha1": "65440f05b15e751947d2cc1e1b3d32bc0c67bb3f",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/ProjectE/mapping.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/ProjectE/mapping.toml"
   },
   {
    "path": "config/ProjectE/processing.toml",
    "size": 1350,
    "sha1": "c63385e21e280039f45426496dae86450a935904",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/ProjectE/processing.toml"
   },
   {
    "path": "config/ProjectE/server.toml",
    "size": 4754,
    "sha1": "1df1aecb7100dd2ae5392e7da98c2e480f61fc2c",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/ProjectE/server.toml"
   },
   {
    "path": "config/Weather2/Debug.toml",
    "size": 170,
    "sha1": "5d523f25d73bde1a1ba7d9bb66dca79ba86fae06",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/Weather2/Debug.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/Weather2/Debug.toml"
   },
   {
    "path": "config/Weather2/Misc.toml",
    "size": 2377,
    "sha1": "3668173af6603a58ff44b43e64e1f4c9005b90be",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/Weather2/Misc.toml"
   },
   {
    "path": "config/Weather2/Particle.toml",
    "size": 774,
    "sha1": "da5c972cb4287feb215f791075be0dd404bddd87",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/Weather2/Particle.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/Weather2/Particle.toml"
   },
   {
    "path": "config/Weather2/Sand.toml",
    "size": 1329,
    "sha1": "90460beaa63a2c4d416be168c1db1c650d951fcd",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/Weather2/Sand.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/Weather2/Sand.toml"
   },
   {
    "path": "config/Weather2/Snow.toml",
@@ -84,175 +84,175 @@
    "path": "config/Weather2/Sound.toml",
    "size": 278,
    "sha1": "c074b19a565a93029d6cce36b35df95f19fec932",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/Weather2/Sound.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/Weather2/Sound.toml"
   },
   {
    "path": "config/Weather2/Storm.toml",
    "size": 4387,
    "sha1": "a7621dc27c293c4e490e0bea33225844e4ad06f6",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/Weather2/Storm.toml"
   },
   {
    "path": "config/Weather2/Tornado.toml",
    "size": 2593,
    "sha1": "1d1e5cba0042eb8930a9aafc8b0d71af2478b732",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/Weather2/Tornado.toml"
   },
   {
    "path": "config/Weather2/Wind.toml",
    "size": 1111,
    "sha1": "262c2cf597fb8f10041171fe212e6e24c2493212",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/Weather2/Wind.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/Weather2/Wind.toml"
   },
   {
    "path": "config/aaa_particles-client.toml",
    "size": 107,
    "sha1": "4b28d5479b4639a833245d7be086bf87dc44e817",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/aaa_particles-client.toml"
   },
   {
    "path": "config/aiimprovements-common.toml",
    "size": 6211,
    "sha1": "38938944d157102e1651cf7bd07c11b9b022ee28",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/aiimprovements-common.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/aiimprovements-common.toml"
   },
   {
    "path": "config/alltheleaks.json",
    "size": 296,
    "sha1": "e17f60da12c1c521f55e9f217e90a6913bb67323",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/alltheleaks.json"
+   "url": ""
   },
   {
    "path": "config/appleskin-client.toml",
    "size": 1361,
    "sha1": "01ddb88e420140c33e4cfc0c105edd6e40a5f2c7",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/appleskin-client.toml"
   },
   {
    "path": "config/azurelib.json",
    "size": 509,
    "sha1": "9b664f0a5d48fb8a25dfd7f5d1c5bd731b5e93c5",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/azurelib.json"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/azurelib.json"
   },
   {
    "path": "config/betteradvancements-client.toml",
    "size": 999,
    "sha1": "7c0af086ecbc6692b293705618c63c05db11823d",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/betteradvancements-client.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/betteradvancements-client.toml"
   },
   {
    "path": "config/betterdeserttemples-forge-1_20.toml",
    "size": 618,
    "sha1": "cc443df38afa1ac81089dcf97513d6e72ada8f53",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/betterdeserttemples-forge-1_20.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/betterdeserttemples-forge-1_20.toml"
   },
   {
    "path": "config/betterdeserttemples/README.txt",
    "size": 722,
    "sha1": "e9aa15b807f311961f737cd9c19fcf1028a69de3",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/betterdeserttemples/README.txt"
   },
   {
    "path": "config/betterdeserttemples/forge-1_20/README.txt",
    "size": 1683,
    "sha1": "80a9d927f4978590ec21d5ae2e2a8e68b16f3277",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/betterdeserttemples/forge-1_20/README.txt"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/betterdeserttemples/forge-1_20/README.txt"
   },
   {
    "path": "config/betterdeserttemples/forge-1_20/armorstands.json",
    "size": 1104,
    "sha1": "914054bb945fbd7cebf73d233496df70f482c64e",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/betterdeserttemples/forge-1_20/armorstands.json"
   },
   {
    "path": "config/betterdeserttemples/forge-1_20/itemframes.json",
    "size": 614,
    "sha1": "0c65d5e6e766640a44a6d9800901146d27ab5cbe",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/betterdeserttemples/forge-1_20/itemframes.json"
   },
   {
    "path": "config/betterdungeons-forge-1_20.toml",
    "size": 3486,
    "sha1": "84c0684cbd0745015f8a3e743d49e7b153ef555f",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/betterdungeons-forge-1_20.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/betterdungeons-forge-1_20.toml"
   },
   {
    "path": "config/betterendisland-forge-1_20.toml",
    "size": 329,
    "sha1": "fb3f32b91838fc1a59cd872e197b73030c1b618a",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/betterendisland-forge-1_20.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/betterendisland-forge-1_20.toml"
   },
   {
    "path": "config/betterfortresses-forge-1_20.toml",
    "size": 468,
    "sha1": "936c1a76752bd191fb9d6c80904073e2a18e1ee5",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/betterfortresses-forge-1_20.toml"
   },
   {
    "path": "config/betterfortresses/README.txt",
    "size": 871,
    "sha1": "47114a7baec2e0322dab1c88424d43c58c2e756a",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/betterfortresses/README.txt"
   },
   {
    "path": "config/betterfortresses/forge-1_20/README.txt",
    "size": 1339,
    "sha1": "abaeda3856b09c5dd80e1b5ada9aaf171d038995",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/betterfortresses/forge-1_20/README.txt"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/betterfortresses/forge-1_20/README.txt"
   },
   {
    "path": "config/betterfortresses/forge-1_20/itemframes.json",
    "size": 901,
    "sha1": "2505bfff41936a856c7ea46f5095fdcef450bc7c",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/betterfortresses/forge-1_20/itemframes.json"
+   "url": ""
   },
   {
    "path": "config/betterjungletemples-forge-1_20.toml",
    "size": 126,
    "sha1": "7a91df151c152a68e1c76deee2290187ce50a974",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/betterjungletemples-forge-1_20.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/betterjungletemples-forge-1_20.toml"
   },
   {
    "path": "config/bettermineshafts-forge-1_20.toml",
    "size": 3773,
    "sha1": "b517fe33dcb6043247b3c6cf5116b1e8cc28e953",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/bettermineshafts-forge-1_20.toml"
   },
   {
    "path": "config/betteroceanmonuments-forge-1_20.toml",
    "size": 460,
    "sha1": "aa643542a9b54bcc7ecbb3a5a910b5fe4770d5c8",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/betteroceanmonuments-forge-1_20.toml"
   },
   {
    "path": "config/betterstrongholds-forge-1_20.toml",
    "size": 813,
    "sha1": "f53e115280fc224ab07de692a62ec5797fdba2a6",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/betterstrongholds-forge-1_20.toml"
   },
   {
    "path": "config/betterstrongholds/README.txt",
    "size": 707,
    "sha1": "cc2cfb4e58d5ef7e29795acce86899d5fd1cce10",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/betterstrongholds/README.txt"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/betterstrongholds/README.txt"
   },
   {
    "path": "config/betterstrongholds/forge-1_20/README.txt",
    "size": 2830,
    "sha1": "ee9c20aeefab7187288a4289d129a3155efa5823",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/betterstrongholds/forge-1_20/README.txt"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/betterstrongholds/forge-1_20/README.txt"
   },
   {
    "path": "config/betterstrongholds/forge-1_20/armorstands.json",
    "size": 1131,
    "sha1": "aefcce94fb4c33b53fb68739589a246746c9d722",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/betterstrongholds/forge-1_20/armorstands.json"
   },
   {
    "path": "config/betterstrongholds/forge-1_20/itemframes.json",
    "size": 680,
    "sha1": "ed7d5a9afc6a6c9e4868343492043a76ac5562c5",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/betterstrongholds/forge-1_20/itemframes.json"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/betterstrongholds/forge-1_20/itemframes.json"
   },
   {
    "path": "config/betterstrongholds/forge-1_20/ores.json",
@@ -264,229 +264,241 @@
    "path": "config/betterstrongholds/forge-1_20/rareblocks.json",
    "size": 238,
    "sha1": "eb635c11d6cacf18d5220d643c31833bf7b0d9c3",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/betterstrongholds/forge-1_20/rareblocks.json"
   },
   {
    "path": "config/biomesoplenty/biome_toggles.json",
    "size": 2101,
    "sha1": "885806fc70ad4767f35378cbbd4894d4adca0fba",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/biomesoplenty/biome_toggles.json"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/biomesoplenty/biome_toggles.json"
   },
   {
    "path": "config/biomesoplenty/gameplay.toml",
    "size": 113,
    "sha1": "612ef6f19efdbf8a0fa809f9227e13c4eb0757f9",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/biomesoplenty/gameplay.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/biomesoplenty/gameplay.toml"
   },
   {
    "path": "config/biomesoplenty/generation.toml",
    "size": 525,
    "sha1": "eba0e4cbd8f1af0ca7c91c21a5fa95f01a6fbf8c",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/biomesoplenty/generation.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/biomesoplenty/generation.toml"
   },
   {
    "path": "config/biomeswevegone/mob_spawn.json",
    "size": 62,
    "sha1": "07e249aa403139f9f8050a01742ff5e16848282e",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/biomeswevegone/mob_spawn.json"
+   "url": ""
   },
   {
    "path": "config/biomeswevegone/trades.json",
    "size": 639,
    "sha1": "17b020f037c64fb06acede658ba1ad0fb3aefcc2",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/biomeswevegone/trades.json"
   },
   {
    "path": "config/biomeswevegone/world_generation.json",
    "size": 4159,
-   "sha1": "686f460d71bdca0f07d863d7da6606f1ce2925b7",
-   "url": ""
+   "sha1": "a5f1db65587fdaa051f03d40785b41842f87605a",
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/biomeswevegone/world_generation.json"
   },
   {
    "path": "config/bookofdragons-client.toml",
    "size": 5676,
    "sha1": "423a4a52f25eeb1286704d9a8dbcdffd5a02a96e",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/bookofdragons-client.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/bookofdragons-client.toml"
   },
   {
    "path": "config/bookofdragons-common.toml",
    "size": 2214,
    "sha1": "8bb2473e82cd6e3c8914d91393729956661daabd",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/bookofdragons-common.toml"
   },
   {
    "path": "config/bookofdragons/book_lessons.json",
    "size": 19,
    "sha1": "3e563b999137a8eafcf7daed11a19dabd14c529f",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/bookofdragons/book_lessons.json"
+   "url": ""
   },
   {
    "path": "config/c2me.toml",
-   "size": 6477,
-   "sha1": "c283afa77b91900eb40f4b937ef75555c6bd52b1",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/c2me.toml"
+   "size": 6476,
+   "sha1": "d0c5a0b5ea76dd7b852a0106e6cf1626eb684c59",
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/c2me.toml"
   },
   {
    "path": "config/chiselsandbits-client-1.toml.bak",
    "size": 4470,
    "sha1": "3e7f6d4c9546072064edcb4830bc18ac78c8470b",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/chiselsandbits-client-1.toml.bak"
   },
   {
    "path": "config/chiselsandbits-client.toml",
    "size": 4470,
    "sha1": "9140fb8c9d31b70412a015a4cf5db6a4835937ce",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/chiselsandbits-client.toml"
   },
   {
    "path": "config/chiselsandbits-common.toml",
    "size": 560,
    "sha1": "f9b355105222b698e776f12fcf2218db53f86ed5",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/chiselsandbits-common.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/chiselsandbits-common.toml"
   },
   {
    "path": "config/chunky/config.json",
    "size": 146,
    "sha1": "a8157f2e1e649b891aaccb8ec83d38c84429c82a",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/chunky/config.json"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/chunky/config.json"
   },
   {
    "path": "config/cinematic-client.toml",
    "size": 4580,
    "sha1": "1206615c4657536a2ac96793c8ea566a26a1e65d",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/cinematic-client.toml"
   },
   {
    "path": "config/citadel-common.toml",
    "size": 648,
    "sha1": "f3aad9442cc4ae95760ceb68f75d5735e9247f6a",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/citadel-common.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/citadel-common.toml"
   },
   {
    "path": "config/copycats-client.toml",
    "size": 342,
    "sha1": "e113d0d36c8005058d3458f3127172958922f26c",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/copycats-client.toml"
   },
   {
    "path": "config/copycats-common.toml",
    "size": 2167,
    "sha1": "ae937ec10a37aa60cd5e5013ee23fd7957ea0548",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/copycats-common.toml"
+   "url": ""
   },
   {
    "path": "config/corgilib/announcement_config.json5",
    "size": 362,
    "sha1": "d8cae15454eb34eed393b769633140d2896b2750",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/corgilib/announcement_config.json5"
   },
   {
    "path": "config/cosmeticarmorreworked-client.toml",
    "size": 1230,
    "sha1": "ae16b9d64e0ce6a136e8feb2533859729fb4daf9",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/cosmeticarmorreworked-client.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/cosmeticarmorreworked-client.toml"
   },
   {
    "path": "config/cosmeticarmorreworked-common.toml",
    "size": 379,
    "sha1": "1c8e89f7f3f6a305ca79dd5b32511aea9c6a6f36",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/cosmeticarmorreworked-common.toml"
   },
   {
    "path": "config/create-client.toml",
    "size": 4397,
    "sha1": "f0e3b28d365068349fb5c06215da6f76dfd4497c",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/create-client.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/create-client.toml"
   },
   {
    "path": "config/create-common.toml",
    "size": 157,
    "sha1": "41cda6916fe6ee82d14411d094f884862ef2b3de",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/create-common.toml"
   },
   {
    "path": "config/create-stuff-additions.toml",
    "size": 874,
    "sha1": "1073a657e29749d42a684516f08d98ad9df8eb17",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/create-stuff-additions.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/create-stuff-additions.toml"
   },
   {
    "path": "config/create_central_kitchen-common.toml",
    "size": 1343,
    "sha1": "237aa60267e9c752cd4e39a20af3d66a9b2d83b5",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/create_central_kitchen-common.toml"
   },
   {
    "path": "config/create_connected-common.toml",
    "size": 1755,
    "sha1": "2af0a69c2a9be0e7fc3b54563b40e3830780beb1",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/create_connected-common.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/create_connected-common.toml"
   },
   {
    "path": "config/create_dragons_plus-client.toml",
    "size": 270,
    "sha1": "a516736243c7e0fd8073faebce89de705f549369",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/create_dragons_plus-client.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/create_dragons_plus-client.toml"
   },
   {
    "path": "config/create_dragons_plus-common.toml",
    "size": 1602,
    "sha1": "cffdd83bdbdc362dda496fe5e3336e7aaa4c4eb2",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/create_dragons_plus-common.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/create_dragons_plus-common.toml"
   },
   {
    "path": "config/create_enchantment_industry-client.toml",
    "size": 140,
    "sha1": "d9963f5438d4261742b4375735fd7baeba9b2691",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/create_enchantment_industry-client.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/create_enchantment_industry-client.toml"
   },
   {
    "path": "config/create_enchantment_industry-common.toml",
    "size": 403,
    "sha1": "a9e3511a9597d8a7357890620ca09d227a79645f",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/create_enchantment_industry-common.toml"
   },
   {
    "path": "config/create_hypertube-client.toml",
    "size": 313,
    "sha1": "2b98442cc473c7bd4772971d255b05478f65859d",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/create_hypertube-client.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/create_hypertube-client.toml"
   },
   {
    "path": "config/create_interactive-client.toml",
    "size": 41,
    "sha1": "29b86dc01f5b99b1860ca78df9c3f66797af788b",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/create_interactive-client.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/create_interactive-client.toml"
   },
   {
    "path": "config/create_interactive-common.toml",
    "size": 87,
    "sha1": "14201e7065311b72ececf1e0cbfb2b576e7742c9",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/create_interactive-common.toml"
+  },
+  {
+   "path": "config/create_jetpack-client.toml",
+   "size": 286,
+   "sha1": "10cd517fbfe0036c319fa286c34e0b8144f070c2",
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/create_jetpack-client.toml"
+  },
+  {
+   "path": "config/create_jetpack-common.toml",
+   "size": 434,
+   "sha1": "bd58b2a74dccebdc289975808678aa77c0ba414d",
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/create_jetpack-common.toml"
   },
   {
    "path": "config/create_new_age-client.toml",
    "size": 254,
    "sha1": "496d11b4d81138333a0dc9bc8cf12689e5626eea",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/create_new_age-client.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/create_new_age-client.toml"
   },
   {
    "path": "config/create_new_age-common.toml",
    "size": 4261,
    "sha1": "8621eb83a33db6f1d412317c04ff6535129fa2f6",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/create_new_age-common.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/create_new_age-common.toml"
   },
   {
    "path": "config/createaddition-common.toml",
    "size": 4446,
    "sha1": "0d56e3d118eef998d420e0ee11d784442f3595a9",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/createaddition-common.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/createaddition-common.toml"
   },
   {
    "path": "config/createbigcannons-client.toml",
    "size": 3449,
    "sha1": "e07c8b80bb8e61859a921306f9379bdb14c2b726",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/createbigcannons-client.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/createbigcannons-client.toml"
   },
   {
    "path": "config/createcasing-common.toml",
@@ -498,85 +510,97 @@
    "path": "config/createdieselgenerators-client.toml",
    "size": 247,
    "sha1": "d15713aa9fdb36f5c98b281ebbc05292b40f62d0",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/createdieselgenerators-client.toml"
   },
   {
    "path": "config/createdieselgenerators-common.toml",
    "size": 411,
    "sha1": "fd48fe61a2e9d1830e2c152341203d28c624861d",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/createdieselgenerators-common.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/createdieselgenerators-common.toml"
   },
   {
    "path": "config/createendertransmission-server.toml",
    "size": 90,
    "sha1": "7cd84866096d0416c46cbe77df3db028648534ef",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/createendertransmission-server.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/createendertransmission-server.toml"
+  },
+  {
+   "path": "config/creategoggles-client.toml",
+   "size": 228,
+   "sha1": "ee8505ffb68f3e05dd12d032243616d0c02281f7",
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/creategoggles-client.toml"
+  },
+  {
+   "path": "config/creategoggles-common.toml",
+   "size": 353,
+   "sha1": "27437ae2cd229de559d8da3134d2cfe7b6a1f679",
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/creategoggles-common.toml"
   },
   {
    "path": "config/createnuclear-client.toml",
    "size": 178,
    "sha1": "ab93ccf5bf9437bfc0c6a82c27bbf0404cd51cd0",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/createnuclear-client.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/createnuclear-client.toml"
   },
   {
    "path": "config/createnuclear-common.toml",
    "size": 226,
    "sha1": "1cc61d2812c3fd607f5f44f4614fa15a968ae57f",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/createnuclear-common.toml"
   },
   {
    "path": "config/createoreexcavation-common.toml",
    "size": 692,
    "sha1": "34bbeb20bd0b3c2fff47b5d8a63d42ece37ee3d5",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/createoreexcavation-common.toml"
   },
   {
    "path": "config/createtweakedcontrollers-client.toml",
    "size": 1116,
    "sha1": "195fc357fc9cf70ff455e23d6acf7517e1916b04",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/createtweakedcontrollers-client.toml"
   },
   {
    "path": "config/curios-client.toml",
    "size": 706,
    "sha1": "3034250c05362494c9f366e5cca449dcea88885d",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/curios-client.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/curios-client.toml"
   },
   {
    "path": "config/curios-common.toml",
    "size": 161,
    "sha1": "71b3af0db517d1651174a40732633899cbabc927",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/curios-common.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/curios-common.toml"
   },
   {
    "path": "config/do_a_barrel_roll-client.json",
    "size": 1694,
    "sha1": "1945ab9b5449b752c74388b4a25e38495a6a125c",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/do_a_barrel_roll-client.json"
   },
   {
    "path": "config/do_a_barrel_roll-server.json",
    "size": 2,
    "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/do_a_barrel_roll-server.json"
   },
   {
    "path": "config/double_edged_reforged-common.toml",
    "size": 1067,
    "sha1": "7698d2e3144d0bfdf29be55d546072bcd4d07a05",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/double_edged_reforged-common.toml"
   },
   {
    "path": "config/dummmmmmy-client.toml",
    "size": 1611,
    "sha1": "e34fc15fd1e8b9f941198b0f22bb8d045771ea15",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/dummmmmmy-client.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/dummmmmmy-client.toml"
   },
   {
    "path": "config/dummmmmmy-common.toml",
    "size": 1277,
    "sha1": "a888fd55c681d8371c4fc1c5f96f8826fb316912",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/dummmmmmy-common.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/dummmmmmy-common.toml"
   },
   {
    "path": "config/e4mc/e4mc.toml",
@@ -588,43 +612,43 @@
    "path": "config/embeddium-fingerprint.json",
    "size": 427,
    "sha1": "b20ef22805b78dcb06ac7811d6f247d1c146ca51",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/embeddium-fingerprint.json"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/embeddium-fingerprint.json"
   },
   {
    "path": "config/embeddium-mixins.properties",
    "size": 269,
    "sha1": "a729ee50d18cf2204ff9fc33bc21641d55185c88",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/embeddium-mixins.properties"
   },
   {
    "path": "config/embeddium-options.json",
    "size": 853,
    "sha1": "39e0c647fe31057361eca43dcf6e98703ebfaaf2",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/embeddium-options.json"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/embeddium-options.json"
   },
   {
    "path": "config/endinglib/advanced/endinglib-client.toml",
    "size": 133,
    "sha1": "18df2bb89e9f067787fd1badfc6bf884d1390437",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/endinglib/advanced/endinglib-client.toml"
   },
   {
    "path": "config/endinglib/advanced/endinglib-common.toml",
    "size": 173,
    "sha1": "c97b0d22a516364939d84c55357abf05ac637553",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/endinglib/advanced/endinglib-common.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/endinglib/advanced/endinglib-common.toml"
   },
   {
    "path": "config/endinglib/endinglib-command.toml",
    "size": 2873,
    "sha1": "87adab3cff0cba92ebe3c3f35dbe3afdd887ef45",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/endinglib/endinglib-command.toml"
   },
   {
    "path": "config/endinglib/endinglib-common.toml",
    "size": 146,
    "sha1": "bf080c6e0144d6c670d3a442390cf301f2b37c93",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/endinglib/endinglib-common.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/endinglib/endinglib-common.toml"
   },
   {
    "path": "config/enhancedvisuals-client.json",
@@ -636,145 +660,145 @@
    "path": "config/enhancedvisuals.json",
    "size": 429,
    "sha1": "5705d9c4313bab006ecd417f308628067e2e9ba7",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/enhancedvisuals.json"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/enhancedvisuals.json"
   },
   {
    "path": "config/entityculling.json",
    "size": 2248,
    "sha1": "71d872172923ba0b593d8654bfd596f9520ddc8b",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/entityculling.json"
   },
   {
    "path": "config/epicfight-client-1.toml.bak",
    "size": 2686,
    "sha1": "94dd5fb83c127d71552c9d2248efa7f32b008228",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/epicfight-client-1.toml.bak"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/epicfight-client-1.toml.bak"
   },
   {
    "path": "config/epicfight-client.toml",
    "size": 2686,
    "sha1": "73dd925f3b1295bcbbb889001dc3d1c7e7288eb3",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/epicfight-client.toml"
   },
   {
    "path": "config/epicfight-common.toml",
    "size": 533,
    "sha1": "169e9a0926589bb512772514a6cbfb6c21616478",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/epicfight-common.toml"
   },
   {
    "path": "config/epicfight/native/ServerCommunicationHelper.dll",
    "size": 233472,
    "sha1": "de88db603af19542ea89cc47dfeaffc1e4f81bb9",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/epicfight/native/ServerCommunicationHelper.dll"
   },
   {
    "path": "config/epicknights/armor.json5",
    "size": 12687,
    "sha1": "c9b29e24eb45d66074b89ebbcd54f47d42679d9b",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/epicknights/armor.json5"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/epicknights/armor.json5"
   },
   {
    "path": "config/epicknights/general.json5",
    "size": 1915,
    "sha1": "3352660b9e6b17d04a0b566f6b468fdbebd8f455",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/epicknights/general.json5"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/epicknights/general.json5"
   },
   {
    "path": "config/epicknights/mobs_equipment.json5",
    "size": 1991,
    "sha1": "05f856c098bb6c49f360edc0b2b30b3c1592369c",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/epicknights/mobs_equipment.json5"
   },
   {
    "path": "config/epicknights/shields.json5",
    "size": 1781,
    "sha1": "27bd5e72b9108027e199029e342d7122b2ae8f7f",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/epicknights/shields.json5"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/epicknights/shields.json5"
   },
   {
    "path": "config/epicknights/weapons.json5",
    "size": 9918,
    "sha1": "eb599aac0e79611ce682c0288cbefa4cf8894482",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/epicknights/weapons.json5"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/epicknights/weapons.json5"
   },
   {
    "path": "config/fabric/indigo-renderer.properties",
    "size": 290,
-   "sha1": "0d1b49229dfac66c555eaafc7ab1611a929518a2",
-   "url": ""
+   "sha1": "91ccc2773894eacfc45c299317d5e67870371393",
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/fabric/indigo-renderer.properties"
   },
   {
    "path": "config/fantasy_armor-client.toml",
    "size": 78,
    "sha1": "08cc07902e534ac787f88d211df0c4e6318e76af",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/fantasy_armor-client.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/fantasy_armor-client.toml"
   },
   {
    "path": "config/ferritecore-mixin.toml",
    "size": 1516,
    "sha1": "bada32b53873ce4121ffefb82ca804c94aef2e0b",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/ferritecore-mixin.toml"
   },
   {
    "path": "config/firstperson.json",
    "size": 593,
    "sha1": "55267bb6ab68f555c50522997ff88d3dae99df15",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/firstperson.json"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/firstperson.json"
   },
   {
    "path": "config/flywheel-client.toml",
    "size": 623,
    "sha1": "639d5e69ea5cb1da413f82aec2484e390cb5c57c",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/flywheel-client.toml"
   },
   {
    "path": "config/fml.toml",
    "size": 1147,
    "sha1": "5850d014d8cc0cb6e529a9630398080506f90262",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/fml.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/fml.toml"
   },
   {
    "path": "config/forge-client.toml",
    "size": 1628,
    "sha1": "55e80f51f0c9cf66de1f95c4d775b24dc59627a1",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/forge-client.toml"
   },
   {
    "path": "config/goety/goety-attributes.toml",
    "size": 56488,
    "sha1": "d5f9830c3db907222778c5234554086cb873ef24",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/goety/goety-attributes.toml"
   },
   {
    "path": "config/goety/goety-brews.toml",
    "size": 14095,
    "sha1": "41d6342a43e7ecfadaf9d3768c7269663d881df9",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/goety/goety-brews.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/goety/goety-brews.toml"
   },
   {
    "path": "config/goety/goety-items.toml",
    "size": 21652,
    "sha1": "a50da272e67998520b8a2966ab7d3f319db6fa2b",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/goety/goety-items.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/goety/goety-items.toml"
   },
   {
    "path": "config/goety/goety-mobs.toml",
    "size": 41093,
    "sha1": "975e63fe36c4f20634bd2839d390e9df89639f85",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/goety/goety-mobs.toml"
   },
   {
    "path": "config/goety/goety-spells.toml",
    "size": 60671,
    "sha1": "f6e522b78fed7ed222fa931c6b8c7cda27970afb",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/goety/goety-spells.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/goety/goety-spells.toml"
   },
   {
    "path": "config/goety/goety.toml",
    "size": 12221,
    "sha1": "bce882e94ef5d665b31bb6f183318f3b53d2c497",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/goety/goety.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/goety/goety.toml"
   },
   {
    "path": "config/goety_revelation.toml",
@@ -786,49 +810,49 @@
    "path": "config/goetyawaken/goetyawaken-attributes.toml",
    "size": 44408,
    "sha1": "58788d074eb57087a0f0a7b9c00a3f84c45b00eb",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/goetyawaken/goetyawaken-attributes.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/goetyawaken/goetyawaken-attributes.toml"
   },
   {
    "path": "config/goetyawaken/goetyawaken-common.toml",
    "size": 44679,
    "sha1": "eddca73f1e20c71cdc0abafe900aec64b09d4cfc",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/goetyawaken/goetyawaken-common.toml"
   },
   {
    "path": "config/goetyawaken/sorcerer_spells.toml",
    "size": 5795,
    "sha1": "1a53e4ef50cf47ef7339c2adbaeccd7349d399f9",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/goetyawaken/sorcerer_spells.toml"
   },
   {
    "path": "config/goetyiron-common.toml",
    "size": 16519,
    "sha1": "1ab693a45671262751df8b0eec5b6c88be834ceb",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/goetyiron-common.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/goetyiron-common.toml"
   },
   {
    "path": "config/grandsigil-client.toml",
    "size": 1230,
    "sha1": "aa910028aaf060607d888f5b26aa6ac696fbd2ad",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/grandsigil-client.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/grandsigil-client.toml"
   },
   {
    "path": "config/grandsigil-common.toml",
    "size": 2465,
    "sha1": "3710b3e2f6beb76f4f785c56a3df9614fabedd5a",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/grandsigil-common.toml"
   },
   {
    "path": "config/graveyard/graveyard.json5",
    "size": 13497,
    "sha1": "bddeb53783d014a374da906b63f0217eb7f9828f",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/graveyard/graveyard.json5"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/graveyard/graveyard.json5"
   },
   {
    "path": "config/gtbcs_spell_lib-client.toml",
    "size": 125,
    "sha1": "71f7764925d41880968f85cd86012371a22288f2",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/gtbcs_spell_lib-client.toml"
   },
   {
    "path": "config/holdmyitems-client.toml",
@@ -840,97 +864,97 @@
    "path": "config/i18nupdatemod.json",
    "size": 757,
    "sha1": "6f351c60c3a1928c5f3fc7d70d1caef80a001e96",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/i18nupdatemod.json"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/i18nupdatemod.json"
   },
   {
    "path": "config/iceandfire-client.toml",
    "size": 320,
    "sha1": "ccc3bbfd2286c5de54e8a9cb433b1d0353f8ac18",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/iceandfire-client.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/iceandfire-client.toml"
   },
   {
    "path": "config/iceandfire-common.toml",
    "size": 15912,
    "sha1": "a8a5ae3f6863326ce35ab4d9052fe6c49eba115b",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/iceandfire-common.toml"
   },
   {
    "path": "config/iceandfire/amphithere_biomes.json",
    "size": 767,
    "sha1": "e4df6d0ed5872551efda03237a5d134d57541c56",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/iceandfire/amphithere_biomes.json"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/iceandfire/amphithere_biomes.json"
   },
   {
    "path": "config/iceandfire/cockatrice_biomes.json",
    "size": 907,
    "sha1": "44436119dc64fa20c9e05cf14adb4e3283cc31f6",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/iceandfire/cockatrice_biomes.json"
   },
   {
    "path": "config/iceandfire/cyclops_cave_biomes.json",
    "size": 610,
    "sha1": "d850ee156167a28c35c332ce06b12798a760409d",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/iceandfire/cyclops_cave_biomes.json"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/iceandfire/cyclops_cave_biomes.json"
   },
   {
    "path": "config/iceandfire/deathworm_biomes.json",
    "size": 1369,
    "sha1": "1d2e7db76a423bf59301f99fde557c8f29f52fbe",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/iceandfire/deathworm_biomes.json"
   },
   {
    "path": "config/iceandfire/desert_myrmex_biomes.json",
    "size": 1369,
    "sha1": "1d2e7db76a423bf59301f99fde557c8f29f52fbe",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/iceandfire/desert_myrmex_biomes.json"
   },
   {
    "path": "config/iceandfire/fire_dragon_biomes.json",
    "size": 2113,
    "sha1": "9093ae59a96c84e02fd93deed23ef9ecd0739025",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/iceandfire/fire_dragon_biomes.json"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/iceandfire/fire_dragon_biomes.json"
   },
   {
    "path": "config/iceandfire/fire_dragon_cave_biomes.json",
    "size": 2113,
    "sha1": "9093ae59a96c84e02fd93deed23ef9ecd0739025",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/iceandfire/fire_dragon_cave_biomes.json"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/iceandfire/fire_dragon_cave_biomes.json"
   },
   {
    "path": "config/iceandfire/fire_dragon_skeleton_biomes.json",
    "size": 1369,
    "sha1": "1d2e7db76a423bf59301f99fde557c8f29f52fbe",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/iceandfire/fire_dragon_skeleton_biomes.json"
   },
   {
    "path": "config/iceandfire/fire_lily_biomes.json",
    "size": 277,
    "sha1": "8d224d425274d4529251f79a68138025521ec2f8",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/iceandfire/fire_lily_biomes.json"
   },
   {
    "path": "config/iceandfire/forest_troll_biomes.json",
    "size": 255,
    "sha1": "df9509b529a8e53e8be079dae9189976a70dd679",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/iceandfire/forest_troll_biomes.json"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/iceandfire/forest_troll_biomes.json"
   },
   {
    "path": "config/iceandfire/frost_lily_biomes.json",
    "size": 624,
    "sha1": "abb5eac1280ec5b246a0553416b874e8374f405a",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/iceandfire/frost_lily_biomes.json"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/iceandfire/frost_lily_biomes.json"
   },
   {
    "path": "config/iceandfire/gorgon_temple_biomes.json",
    "size": 610,
    "sha1": "d850ee156167a28c35c332ce06b12798a760409d",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/iceandfire/gorgon_temple_biomes.json"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/iceandfire/gorgon_temple_biomes.json"
   },
   {
    "path": "config/iceandfire/graveyard_biomes.json",
    "size": 467,
    "sha1": "d8483f1863759f5dbd71d0644e08ac1ce711152c",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/iceandfire/graveyard_biomes.json"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/iceandfire/graveyard_biomes.json"
   },
   {
    "path": "config/iceandfire/hippocampus_biomes.json",
@@ -942,79 +966,79 @@
    "path": "config/iceandfire/hippogryph_biomes.json",
    "size": 855,
    "sha1": "ca50cc2ac90994299b49d5cebb15ef9434946dd8",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/iceandfire/hippogryph_biomes.json"
   },
   {
    "path": "config/iceandfire/hippogryph_black_biomes.json",
    "size": 279,
    "sha1": "900ec729e35967f6d8f726e4d98b765be3d17c8f",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/iceandfire/hippogryph_black_biomes.json"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/iceandfire/hippogryph_black_biomes.json"
   },
   {
    "path": "config/iceandfire/hippogryph_brown_biomes.json",
    "size": 486,
    "sha1": "dca8d143a3519c52cfb34d430df6b58c99e0ceae",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/iceandfire/hippogryph_brown_biomes.json"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/iceandfire/hippogryph_brown_biomes.json"
   },
   {
    "path": "config/iceandfire/hippogryph_chestnut_biomes.json",
    "size": 601,
    "sha1": "f2783fb6c7a15329e625506ca537141ef5e6574e",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/iceandfire/hippogryph_chestnut_biomes.json"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/iceandfire/hippogryph_chestnut_biomes.json"
   },
   {
    "path": "config/iceandfire/hippogryph_creamy_biomes.json",
    "size": 286,
    "sha1": "c83e928288ef2d8176676219f48f7fcc32e989b4",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/iceandfire/hippogryph_creamy_biomes.json"
   },
   {
    "path": "config/iceandfire/hippogryph_dark_brown_biomes.json",
    "size": 1050,
    "sha1": "0e2ae546ff20dec3473bcdbcda41580268286a62",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/iceandfire/hippogryph_dark_brown_biomes.json"
   },
   {
    "path": "config/iceandfire/hippogryph_gray_biomes.json",
    "size": 418,
    "sha1": "c5ffe03801cb200791a69b98ebbd20718679a591",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/iceandfire/hippogryph_gray_biomes.json"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/iceandfire/hippogryph_gray_biomes.json"
   },
   {
    "path": "config/iceandfire/hippogryph_white_biomes.json",
    "size": 1249,
    "sha1": "b48fb3d91c94cb850f029e006addf04d461ed7a1",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/iceandfire/hippogryph_white_biomes.json"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/iceandfire/hippogryph_white_biomes.json"
   },
   {
    "path": "config/iceandfire/hydra_cave_biomes.json",
    "size": 747,
    "sha1": "018594f5f67a4641a9272737f62d8d03a3b9ac24",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/iceandfire/hydra_cave_biomes.json"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/iceandfire/hydra_cave_biomes.json"
   },
   {
    "path": "config/iceandfire/ice_dragon_biomes.json",
    "size": 534,
    "sha1": "c448c995c4c2ccd45d14bfdaead62cb4a2767607",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/iceandfire/ice_dragon_biomes.json"
   },
   {
    "path": "config/iceandfire/ice_dragon_cave_biomes.json",
    "size": 534,
    "sha1": "c448c995c4c2ccd45d14bfdaead62cb4a2767607",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/iceandfire/ice_dragon_cave_biomes.json"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/iceandfire/ice_dragon_cave_biomes.json"
   },
   {
    "path": "config/iceandfire/ice_dragon_skeleton_biomes.json",
    "size": 624,
    "sha1": "abb5eac1280ec5b246a0553416b874e8374f405a",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/iceandfire/ice_dragon_skeleton_biomes.json"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/iceandfire/ice_dragon_skeleton_biomes.json"
   },
   {
    "path": "config/iceandfire/jungle_myrmex_biomes.json",
    "size": 767,
    "sha1": "e4df6d0ed5872551efda03237a5d134d57541c56",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/iceandfire/jungle_myrmex_biomes.json"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/iceandfire/jungle_myrmex_biomes.json"
   },
   {
    "path": "config/iceandfire/lightning_dragon_biomes.json",
@@ -1026,163 +1050,163 @@
    "path": "config/iceandfire/lightning_dragon_cave_biomes.json",
    "size": 1748,
    "sha1": "e7c66648be52c6c829bf3a54d36075c16330bf87",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/iceandfire/lightning_dragon_cave_biomes.json"
   },
   {
    "path": "config/iceandfire/lightning_dragon_skeleton_biomes.json",
    "size": 907,
    "sha1": "44436119dc64fa20c9e05cf14adb4e3283cc31f6",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/iceandfire/lightning_dragon_skeleton_biomes.json"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/iceandfire/lightning_dragon_skeleton_biomes.json"
   },
   {
    "path": "config/iceandfire/lightning_lily_biomes.json",
    "size": 907,
    "sha1": "44436119dc64fa20c9e05cf14adb4e3283cc31f6",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/iceandfire/lightning_lily_biomes.json"
   },
   {
    "path": "config/iceandfire/mausoleum_biomes.json",
    "size": 728,
    "sha1": "08403a733a336139a57f476be3da6900f4f87a0a",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/iceandfire/mausoleum_biomes.json"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/iceandfire/mausoleum_biomes.json"
   },
   {
    "path": "config/iceandfire/mountain_troll_biomes.json",
    "size": 486,
    "sha1": "dca8d143a3519c52cfb34d430df6b58c99e0ceae",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/iceandfire/mountain_troll_biomes.json"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/iceandfire/mountain_troll_biomes.json"
   },
   {
    "path": "config/iceandfire/ore_gen_biomes.json",
    "size": 145,
    "sha1": "72c87498fe92bbaedac0dd8f17fe45cd39f10175",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/iceandfire/ore_gen_biomes.json"
   },
   {
    "path": "config/iceandfire/pixie_village_biomes.json",
    "size": 2194,
    "sha1": "dc2756d2d5e62611c086e5847b6863924f22ab93",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/iceandfire/pixie_village_biomes.json"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/iceandfire/pixie_village_biomes.json"
   },
   {
    "path": "config/iceandfire/sapphire_gen_biomes.json",
    "size": 624,
    "sha1": "abb5eac1280ec5b246a0553416b874e8374f405a",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/iceandfire/sapphire_gen_biomes.json"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/iceandfire/sapphire_gen_biomes.json"
   },
   {
    "path": "config/iceandfire/sea_serpent_biomes.json",
    "size": 254,
    "sha1": "b8e516f1cbf6a55f39488503ceaa54395233de2c",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/iceandfire/sea_serpent_biomes.json"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/iceandfire/sea_serpent_biomes.json"
   },
   {
    "path": "config/iceandfire/siren_biomes.json",
    "size": 254,
    "sha1": "b8e516f1cbf6a55f39488503ceaa54395233de2c",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/iceandfire/siren_biomes.json"
   },
   {
    "path": "config/iceandfire/snowy_troll_biomes.json",
    "size": 250,
    "sha1": "048d4829d4d2905d8c3b0327819ef652318f315d",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/iceandfire/snowy_troll_biomes.json"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/iceandfire/snowy_troll_biomes.json"
   },
   {
    "path": "config/iceandfire/stymphalian_bird_biomes.json",
    "size": 747,
    "sha1": "018594f5f67a4641a9272737f62d8d03a3b9ac24",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/iceandfire/stymphalian_bird_biomes.json"
+   "url": ""
   },
   {
    "path": "config/iceandfire/wandering_cyclops_biomes.json",
    "size": 632,
    "sha1": "f31050117fa4272ff3e80cc4a97a569632a54f13",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/iceandfire/wandering_cyclops_biomes.json"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/iceandfire/wandering_cyclops_biomes.json"
   },
   {
    "path": "config/immersive_melodies.json",
    "size": 1209,
    "sha1": "b02dd07808da8b42433ac2dbe00244efacf33bc7",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/immersive_melodies.json"
   },
   {
    "path": "config/immersive_weathering-client.toml",
    "size": 298,
    "sha1": "a0a2e1887dd5adaa8574f563d8e62ee9af9ed394",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/immersive_weathering-client.toml"
   },
   {
    "path": "config/immersive_weathering-common.toml",
    "size": 2449,
    "sha1": "0cb161750794b1176c78e4cb038ca939868704f7",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/immersive_weathering-common.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/immersive_weathering-common.toml"
   },
   {
    "path": "config/invincible-common.toml",
    "size": 894,
    "sha1": "108fcd0509392c1326a2e12fd40d55627e73f2a6",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/invincible-common.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/invincible-common.toml"
   },
   {
    "path": "config/irons_spellbooks-client.toml",
    "size": 3575,
    "sha1": "fbc4025b01acdd3bf4fd31d0844cb9bb8bbb4991",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/irons_spellbooks-client.toml"
   },
   {
    "path": "config/irons_spellbooks_spell_config/global_config.json",
    "size": 257,
    "sha1": "3fd1649e33039ce955191888a01c0742aa31a0f9",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/irons_spellbooks_spell_config/global_config.json"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/irons_spellbooks_spell_config/global_config.json"
   },
   {
    "path": "config/irons_spellbooks_spell_config/irons_spellbooks/example.txt",
    "size": 683,
    "sha1": "0de706d3f9e051c558d5444527b837120d25aeb7",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/irons_spellbooks_spell_config/irons_spellbooks/example.txt"
   },
   {
    "path": "config/jade/hide-blocks.json",
    "size": 191,
    "sha1": "8b3297cc5db5ed84dd48d2905fb21ee3063e0e25",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/jade/hide-blocks.json"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/jade/hide-blocks.json"
   },
   {
    "path": "config/jade/hide-entities.json",
    "size": 325,
    "sha1": "548656ff89ad489730a4b5fdf071a6e98fcd5033",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/jade/hide-entities.json"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/jade/hide-entities.json"
   },
   {
    "path": "config/jade/jade.json",
    "size": 974,
    "sha1": "2fb491dec13b7ad7d2f47f6b4a5a177efb31031c",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/jade/jade.json"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/jade/jade.json"
   },
   {
    "path": "config/jade/plugins.json",
    "size": 2428,
    "sha1": "7af3a483dd74f9338c63a872a481048c1b84cf36",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/jade/plugins.json"
   },
   {
    "path": "config/jade/sort-order.json",
    "size": 2341,
    "sha1": "ee90db47cfabcc7c8c69bc64625e79930bccd642",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/jade/sort-order.json"
   },
   {
    "path": "config/jecharacters.toml",
    "size": 917,
    "sha1": "48f70c578daef7312d44f75372decfd4738945b2",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/jecharacters.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/jecharacters.toml"
   },
   {
    "path": "config/jei/blacklist.json",
    "size": 19,
    "sha1": "7a9c83de081216d9061bffda2d30114104ef6ee3",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/jei/blacklist.json"
   },
   {
    "path": "config/jei/client/default/jei-client.ini",
@@ -1194,49 +1218,49 @@
    "path": "config/jei/client/default/jei-colors.ini",
    "size": 1655,
    "sha1": "1044f6310eb4e62253c9d9e1ba3a9313599b310e",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/jei/client/default/jei-colors.ini"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/jei/client/default/jei-colors.ini"
   },
   {
    "path": "config/jei/client/default/jei-debug.ini",
    "size": 1174,
    "sha1": "d02dc7d7cf1c8ced3ef1f9253a0bbadb6580d56d",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/jei/client/default/jei-debug.ini"
   },
   {
    "path": "config/jei/client/default/jei-mod-id-format.ini",
    "size": 917,
    "sha1": "f19319a8275e957349652f51dd17e1dd5b9ef92c",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/jei/client/default/jei-mod-id-format.ini"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/jei/client/default/jei-mod-id-format.ini"
   },
   {
    "path": "config/jei/client/ingredient-list-mod-sort-order.ini",
-   "size": 1662,
-   "sha1": "1201d98da3491ce5a455d74bb68aa65d15a3965b",
-   "url": ""
+   "size": 1812,
+   "sha1": "848f9873d324f23b5bbb6958c86d5ad9fbe3a607",
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/jei/client/ingredient-list-mod-sort-order.ini"
   },
   {
    "path": "config/jei/client/ingredient-list-type-sort-order.ini",
    "size": 224,
    "sha1": "a1f1d0c388b852dd893b1db9de71a8cda50e483d",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/jei/client/ingredient-list-type-sort-order.ini"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/jei/client/ingredient-list-type-sort-order.ini"
   },
   {
    "path": "config/jei/client/jei-client.ini",
    "size": 17005,
    "sha1": "ad78f978f9a4b4c4f586d6811ae471847054ca84",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/jei/client/jei-client.ini"
   },
   {
    "path": "config/jei/client/recipe-category-sort-order.ini",
-   "size": 3230,
-   "sha1": "8db98e65a55701f5799f8422830d9030c0405430",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/jei/client/recipe-category-sort-order.ini"
+   "size": 3277,
+   "sha1": "1a02fd2b4021de115c7f2bd3e5a3856ba08653bc",
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/jei/client/recipe-category-sort-order.ini"
   },
   {
    "path": "config/jei/server/world/default/jei-server.ini",
    "size": 741,
    "sha1": "ca597757bcaf1a033be7614cfdfd8046dc748995",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/jei/server/world/default/jei-server.ini"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/jei/server/world/default/jei-server.ini"
   },
   {
    "path": "config/jei/world/local/新的世界/lookupHistory.ini",
@@ -1260,85 +1284,85 @@
    "path": "config/jujutsu_kaisen-client.toml",
    "size": 194,
    "sha1": "84879e044a2884b072e95643ef1303ca2dc71b78",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/jujutsu_kaisen-client.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/jujutsu_kaisen-client.toml"
   },
   {
    "path": "config/legendary_monsters-common.toml",
    "size": 21433,
    "sha1": "7c98b59fcad27669d3eb5c68ce049178e6136718",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/legendary_monsters-common.toml"
   },
   {
    "path": "config/lrarmor-common.toml",
    "size": 128,
    "sha1": "b6bdb2c9a839a9f1e47a1929b7649cfbc46b1f98",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/lrarmor-common.toml"
   },
   {
    "path": "config/lsp.json",
    "size": 224,
    "sha1": "72a1d5653c3d1e0142ae4d10eb10d4037f970f6b",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/lsp.json"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/lsp.json"
   },
   {
    "path": "config/mezz_config/client/default/settings.ini",
    "size": 1452,
    "sha1": "37c6c10d605efbf78119e1fea0d6d0b06ba9ca77",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/mezz_config/client/default/settings.ini"
   },
   {
    "path": "config/modernfix-common.toml",
    "size": 107,
    "sha1": "046452d3af87f5c1fd5de5650e3d1b73c930fd92",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/modernfix-common.toml"
   },
   {
    "path": "config/modernfix-mixins.properties",
    "size": 6739,
    "sha1": "c441b2e02f2d6265f010f0fa28a64d0ee8656030",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/modernfix-mixins.properties"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/modernfix-mixins.properties"
   },
   {
    "path": "config/moonlight-client.toml",
    "size": 1027,
    "sha1": "2b7b74e7a52aa0863a6d8d92ceca1e7e5dc247be",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/moonlight-client.toml"
   },
   {
    "path": "config/moonlight-common.toml",
    "size": 1023,
    "sha1": "ad306d35d661dfff2a752674eb4b8e05f05f1c8e",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/moonlight-common.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/moonlight-common.toml"
   },
   {
    "path": "config/naruto-mod.toml",
    "size": 1361,
    "sha1": "57c055115aef3415e35c45b37720aa267d8e62be",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/naruto-mod.toml"
   },
   {
    "path": "config/notenoughanimations.json",
    "size": 3275,
    "sha1": "a719a85a70cca760d75ca2bd304f6a802932a683",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/notenoughanimations.json"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/notenoughanimations.json"
   },
   {
    "path": "config/oculus.properties",
    "size": 283,
-   "sha1": "f573eee4f26744e5fcd7126ae65b1645c39185f5",
-   "url": ""
+   "sha1": "44799cadab80b67f5d28442fb6a99191ec23a558",
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/oculus.properties"
   },
   {
    "path": "config/patchouli-client.toml",
    "size": 1091,
    "sha1": "e4987ed22204ca092b2d62a5fa1a065fe88fd9b2",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/patchouli-client.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/patchouli-client.toml"
   },
   {
    "path": "config/pehkui-client.toml",
    "size": 138,
    "sha1": "50ccb3af7b7fc2103f3f34de24a7c0564fc8a997",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/pehkui-client.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/pehkui-client.toml"
   },
   {
    "path": "config/pehkui-common.toml",
@@ -1350,145 +1374,145 @@
    "path": "config/physicsmod/physics_animations_client_config.json",
    "size": 2704,
    "sha1": "09deba4d55b8ed6aade01e21def0bc0b3831788f",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/physicsmod/physics_animations_client_config.json"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/physicsmod/physics_animations_client_config.json"
   },
   {
    "path": "config/physicsmod/physics_blocks_client_config.json",
    "size": 187768,
    "sha1": "b0dedc6a8c8b42cd487e27aadad637429fae7241",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/physicsmod/physics_blocks_client_config.json"
   },
   {
    "path": "config/physicsmod/physics_client_config.json",
    "size": 4337,
    "sha1": "2d847c8ab2e64210b2325d80ce2eb9bb79bb128d",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/physicsmod/physics_client_config.json"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/physicsmod/physics_client_config.json"
   },
   {
    "path": "config/physicsmod/physics_cloth_config.json",
    "size": 49,
    "sha1": "eb546b9b88636bed3aaf1f0d532309a2639bc8f9",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/physicsmod/physics_cloth_config.json"
   },
   {
    "path": "config/physicsmod/physics_mobs_client_config.json",
    "size": 26,
    "sha1": "16a35a8c745f5ea0c579f7da1e23bfa4a6af6a97",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/physicsmod/physics_mobs_client_config.json"
+   "url": ""
   },
   {
    "path": "config/physicsmod/physics_server_config.json",
    "size": 97,
    "sha1": "a028d95cbadbb6ea583ebc79760efc5c92bed0aa",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/physicsmod/physics_server_config.json"
   },
   {
    "path": "config/physicsmod/physics_vines_client_config.json",
    "size": 14102,
    "sha1": "aa95da495b42dc2edf151a6e2d0834a238b41bc1",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/physicsmod/physics_vines_client_config.json"
   },
   {
    "path": "config/ponder-client.toml",
    "size": 619,
    "sha1": "0b19ea00344a54de06114aa1a0f1d4bec95782d1",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/ponder-client.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/ponder-client.toml"
   },
   {
    "path": "config/powergrid-client.toml",
    "size": 2046,
    "sha1": "45aca922d94a1a90307625eb51fee6455548a135",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/powergrid-client.toml"
   },
   {
    "path": "config/powergrid-common.toml",
    "size": 608,
    "sha1": "41e5e2d33e6863fd7a694d8a18c4d220d9fe455b",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/powergrid-common.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/powergrid-common.toml"
   },
   {
    "path": "config/railways-client.toml",
    "size": 2070,
    "sha1": "8e7df3e49f02470443e3afed058ebbd4cd128035",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/railways-client.toml"
   },
   {
    "path": "config/railways-common.toml",
    "size": 337,
    "sha1": "84c59bd1047708357987030f4b89caf0bb5dc030",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/railways-common.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/railways-common.toml"
   },
   {
    "path": "config/refinedstorage-client.toml",
    "size": 831,
    "sha1": "ec730f7a342e27417c0a6149ac6738baa64057ec",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/refinedstorage-client.toml"
   },
   {
    "path": "config/resurrection-common.toml",
    "size": 317,
    "sha1": "947bb0e71bcc4d67c4ec0699f24164e0b712cdf0",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/resurrection-common.toml"
   },
   {
    "path": "config/revelationfix/goety-modify-client.toml",
    "size": 198,
    "sha1": "95eefde22553e19a1f00693981b4282c9a46219c",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/revelationfix/goety-modify-client.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/revelationfix/goety-modify-client.toml"
   },
   {
    "path": "config/revelationfix/goety-modify-common.toml",
    "size": 940,
    "sha1": "247a3ae06bae27118e8d0bb45cfae54b31ea6139",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/revelationfix/goety-modify-common.toml"
+   "url": ""
   },
   {
    "path": "config/revelationfix/revelationfix-block.toml",
    "size": 1323,
    "sha1": "1a56e98f7070debe79f35497a078ce5dfe6459f2",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/revelationfix/revelationfix-block.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/revelationfix/revelationfix-block.toml"
   },
   {
    "path": "config/revelationfix/revelationfix-client.toml",
    "size": 971,
    "sha1": "19f5f8cc68a2504ff4cec6bb94668d87f4e92e23",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/revelationfix/revelationfix-client.toml"
   },
   {
    "path": "config/revelationfix/revelationfix-common-1.toml.bak",
    "size": 5427,
    "sha1": "4f7d07bb2dd568f9f38ae59afa7f52779c2a9426",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/revelationfix/revelationfix-common-1.toml.bak"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/revelationfix/revelationfix-common-1.toml.bak"
   },
   {
    "path": "config/revelationfix/revelationfix-common-2.toml.bak",
    "size": 5427,
    "sha1": "4f7d07bb2dd568f9f38ae59afa7f52779c2a9426",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/revelationfix/revelationfix-common-2.toml.bak"
   },
   {
    "path": "config/revelationfix/revelationfix-common-3.toml.bak",
    "size": 5427,
    "sha1": "4f7d07bb2dd568f9f38ae59afa7f52779c2a9426",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/revelationfix/revelationfix-common-3.toml.bak"
+   "url": ""
   },
   {
    "path": "config/revelationfix/revelationfix-common-4.toml.bak",
    "size": 5542,
    "sha1": "7ef314f9ba2bcec394f9398d591ae5965179a1a9",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/revelationfix/revelationfix-common-4.toml.bak"
   },
   {
    "path": "config/revelationfix/revelationfix-common.toml",
    "size": 5396,
    "sha1": "bc45649f707f28cb451ed187774195dfbdf536b8",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/revelationfix/revelationfix-common.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/revelationfix/revelationfix-common.toml"
   },
   {
    "path": "config/revelationfix/revelationfix-entity.toml",
    "size": 9199,
    "sha1": "d8b33cfe74e3e359cbc8ba79f079a5cbe16f6375",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/revelationfix/revelationfix-entity.toml"
   },
   {
    "path": "config/revelationfix/revelationfix-item-1.toml.bak",
@@ -1500,73 +1524,73 @@
    "path": "config/revelationfix/revelationfix-item-2.toml.bak",
    "size": 5313,
    "sha1": "be753d81188dc3afe9dfdfcba0d492c4257d3ab8",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/revelationfix/revelationfix-item-2.toml.bak"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/revelationfix/revelationfix-item-2.toml.bak"
   },
   {
    "path": "config/revelationfix/revelationfix-item-3.toml.bak",
    "size": 5313,
    "sha1": "be753d81188dc3afe9dfdfcba0d492c4257d3ab8",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/revelationfix/revelationfix-item-3.toml.bak"
   },
   {
    "path": "config/revelationfix/revelationfix-item-4.toml.bak",
    "size": 5313,
    "sha1": "be753d81188dc3afe9dfdfcba0d492c4257d3ab8",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/revelationfix/revelationfix-item-4.toml.bak"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/revelationfix/revelationfix-item-4.toml.bak"
   },
   {
    "path": "config/revelationfix/revelationfix-item-5.toml.bak",
    "size": 5313,
    "sha1": "be753d81188dc3afe9dfdfcba0d492c4257d3ab8",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/revelationfix/revelationfix-item-5.toml.bak"
   },
   {
    "path": "config/revelationfix/revelationfix-item.toml",
    "size": 5313,
    "sha1": "be753d81188dc3afe9dfdfcba0d492c4257d3ab8",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/revelationfix/revelationfix-item.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/revelationfix/revelationfix-item.toml"
   },
   {
    "path": "config/revelationfix/revelationfix-modpack-common.toml",
    "size": 645,
    "sha1": "d1125bea027b22c5696ac40e6249160cf6b143b8",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/revelationfix/revelationfix-modpack-common.toml"
   },
   {
    "path": "config/rpg_series/loot_equipment_v2.json",
    "size": 168700,
    "sha1": "8bb79719e55e2a68f0c07d06568a2cd15760285a",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/rpg_series/loot_equipment_v2.json"
   },
   {
    "path": "config/rpg_series/loot_fallback_report.json",
    "size": 40212,
-   "sha1": "cf0dec8657aa5f32f0dbe6ec44351a29965a317c",
-   "url": ""
+   "sha1": "b6259b246b657bc633b61f62b505d8c85aaea4d2",
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/rpg_series/loot_fallback_report.json"
   },
   {
    "path": "config/rpg_series/loot_misc.json",
    "size": 224,
    "sha1": "3f14e77a5cff8053f2d46bc8b0791b7c57ba876a",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/rpg_series/loot_misc.json"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/rpg_series/loot_misc.json"
   },
   {
    "path": "config/rpg_series/loot_scrolls_v2.json",
    "size": 31685,
    "sha1": "758afeed2a5ab24c4b70fcafd70d6cb5deb7d89a",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/rpg_series/loot_scrolls_v2.json"
   },
   {
    "path": "config/rpg_series/tag_cache.json",
    "size": 5975,
    "sha1": "4047d5e4456d8a0ecf1a705a48f49e27fc3af5ae",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/rpg_series/tag_cache.json"
   },
   {
    "path": "config/saintsdragons/client/clientcommon.toml",
    "size": 835,
    "sha1": "82018356d223be5f6b1935d3b4426f0e37768f7e",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/saintsdragons/client/clientcommon.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/saintsdragons/client/clientcommon.toml"
   },
   {
    "path": "config/saintsdragons/client/dragon_rider_camera/camera_tuning.json",
@@ -1578,49 +1602,49 @@
    "path": "config/saintsdragons/server/attributes.toml",
    "size": 9267,
    "sha1": "7b8440ded302ea44bbed9e2e75855d3ba2ee762a",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/saintsdragons/server/attributes.toml"
   },
   {
    "path": "config/saintsdragons/server/servercommon.toml",
    "size": 1294,
    "sha1": "ad0cd560ac68e2ed998ea74a45aa153df1d0c5a7",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/saintsdragons/server/servercommon.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/saintsdragons/server/servercommon.toml"
   },
   {
    "path": "config/saintsdragons/server/spawning.toml",
    "size": 2829,
    "sha1": "f4134196b3457f10856f95218b4dff94c0ce4e82",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/saintsdragons/server/spawning.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/saintsdragons/server/spawning.toml"
   },
   {
    "path": "config/saintsdragons/server/tools_and_armor.toml",
    "size": 4065,
    "sha1": "5721a70c0e133eded35dfe0664047f8667675056",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/saintsdragons/server/tools_and_armor.toml"
   },
   {
    "path": "config/sereneseasons/fertility.toml",
    "size": 485,
    "sha1": "14b9e3be4a982461c991df82f8abf7da46a3ceef",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/sereneseasons/fertility.toml"
   },
   {
    "path": "config/sereneseasons/seasons.toml",
    "size": 6778,
    "sha1": "afcc50ce9fcd3cabdc48997ddbbb77fdb4064b8a",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/sereneseasons/seasons.toml"
   },
   {
    "path": "config/shouldersurfing-client.toml",
    "size": 19923,
    "sha1": "6c3a035fe187f929b6777d59f0e462bd9e18c988",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/shouldersurfing-client.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/shouldersurfing-client.toml"
   },
   {
    "path": "config/skinlayers.json",
    "size": 497,
    "sha1": "9552e0366319f47881639dbcb36713bbfad98a58",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/skinlayers.json"
   },
   {
    "path": "config/slashblade-common.toml",
@@ -1632,37 +1656,49 @@
    "path": "config/slashbladeskin-common.toml",
    "size": 278,
    "sha1": "708799e98d458695abd6f83e3de9137f3a7808b4",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/slashbladeskin-common.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/slashbladeskin-common.toml"
+  },
+  {
+   "path": "config/sliceanddice-client.toml",
+   "size": 33,
+   "sha1": "cbd94aa431569f1d11c03b6b1749f717a544e43a",
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/sliceanddice-client.toml"
+  },
+  {
+   "path": "config/sliceanddice-common.toml",
+   "size": 427,
+   "sha1": "96c6033468c0864d2b2d71fd513d3ffa14720594",
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/sliceanddice-common.toml"
   },
   {
    "path": "config/sophisticatedbackpacks-common.toml",
    "size": 122,
    "sha1": "300cb0348cbb41fb48bab6849802495881fc9b93",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/sophisticatedbackpacks-common.toml"
   },
   {
    "path": "config/sophisticatedcore-client.toml",
    "size": 478,
    "sha1": "235f9d3d77f6fa349bd2381f78e231103e8a54c6",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/sophisticatedcore-client.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/sophisticatedcore-client.toml"
   },
   {
    "path": "config/sophisticatedcore-common.toml",
    "size": 3988,
    "sha1": "2aa0e9b7c7c7f72865a5bd9eb0f08336c80d77a2",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/sophisticatedcore-common.toml"
   },
   {
    "path": "config/spatial-gui.json5",
    "size": 5461,
    "sha1": "c2a19281939181d2c5081c2b06ea0acb670bb922",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/spatial-gui.json5"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/spatial-gui.json5"
   },
   {
    "path": "config/spatial-gui/profiles.json5",
    "size": 1840,
    "sha1": "cb391469b9b6a0927138a1f07477c85f748ecc94",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/spatial-gui/profiles.json5"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/spatial-gui/profiles.json5"
   },
   {
    "path": "config/spell_engine/client.json5",
@@ -1674,151 +1710,151 @@
    "path": "config/spell_engine/elemental_weaknesses.json",
    "size": 2526,
    "sha1": "8b93da953ccc9c698c6f60026b73278559289ee3",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/spell_engine/elemental_weaknesses.json"
   },
   {
    "path": "config/spell_engine/enchantments.json",
    "size": 132,
    "sha1": "bbf1a4ade93f2ee2cb9c5bf937d64d260daa619e",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/spell_engine/enchantments.json"
+   "url": ""
   },
   {
    "path": "config/spell_engine/hud_config.json",
    "size": 643,
    "sha1": "f86ba5be18c114ab158729af7981f37892b6e02d",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/spell_engine/hud_config.json"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/spell_engine/hud_config.json"
   },
   {
    "path": "config/spell_engine/server.json5",
    "size": 6465,
    "sha1": "2f9d222d0adcaf9d28010e7270580b2545e0e0a6",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/spell_engine/server.json5"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/spell_engine/server.json5"
   },
   {
    "path": "config/spell_engine/spell_container_templates_v2.json",
    "size": 178,
    "sha1": "8f15779e31422eb7890ba6f3ee16155147bd0e42",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/spell_engine/spell_container_templates_v2.json"
   },
   {
    "path": "config/spell_engine/weapon_fallback.json",
    "size": 7399,
    "sha1": "f6a2967b3faab25ca1ebf760a37338f4079b3927",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/spell_engine/weapon_fallback.json"
   },
   {
    "path": "config/spell_engine/weapon_fallback.json.bak-20261123-213800",
    "size": 7397,
    "sha1": "c72e4c8f038e13607be4d914149ec3b173f8ac23",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/spell_engine/weapon_fallback.json.bak-20261123-213800"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/spell_engine/weapon_fallback.json.bak-20261123-213800"
   },
   {
    "path": "config/spell_power/attributes.json",
    "size": 644,
    "sha1": "b86823579112f84946c4678d09349b462b33100a",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/spell_power/attributes.json"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/spell_power/attributes.json"
   },
   {
    "path": "config/spell_power/enchantments.json",
    "size": 1252,
    "sha1": "6530cb1620c99676639a62a3de70775dbcd77cf4",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/spell_power/enchantments.json"
   },
   {
    "path": "config/sword_soaring-common.toml",
    "size": 1277,
    "sha1": "347ddd6d100ed7d18a36f90530907616cec84d2d",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/sword_soaring-common.toml"
   },
   {
    "path": "config/terrablender.toml",
    "size": 552,
    "sha1": "9170b19e75cded7b1d6229f44f1abb43a256d863",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/terrablender.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/terrablender.toml"
   },
   {
    "path": "config/tfmg-common.toml",
    "size": 3735,
    "sha1": "56f93e810b40ee04207e88a0f80fa1548b7842fc",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/tfmg-common.toml"
   },
   {
    "path": "config/toms_storage-common.toml",
    "size": 910,
    "sha1": "5a049c03ee3b4126efb9937c0f86c8e74baed8f0",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/toms_storage-common.toml"
   },
   {
    "path": "config/transition.json",
    "size": 97,
    "sha1": "8b50cd4b9956dc3443acd38e47f80e23ff7712f5",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/transition.json"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/transition.json"
   },
   {
    "path": "config/trender.json",
    "size": 44,
    "sha1": "8b2dd1fd2ca9c7dc83354cd2c649c486864cea76",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/trender.json"
   },
   {
    "path": "config/twilightforest-client.toml",
    "size": 1565,
    "sha1": "43579b88a96a84233b272c4b12fef6bb12a40553",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/twilightforest-client.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/twilightforest-client.toml"
   },
   {
    "path": "config/twilightforest-common.toml",
    "size": 7758,
    "sha1": "2174480bb29235c7cd09df264266baf2386afca5",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/twilightforest-common.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/twilightforest-common.toml"
   },
   {
    "path": "config/valkyrienskies/valkyrienskies-client.toml",
    "size": 1154,
    "sha1": "e819238834c9a1c12dd2e00e68e1d1eda23db954",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/valkyrienskies/valkyrienskies-client.toml"
   },
   {
    "path": "config/valkyrienskies/valkyrienskies-common.toml",
    "size": 194,
    "sha1": "9cf38906a1473254d8327a3da5866f13d44bd9d9",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/valkyrienskies/valkyrienskies-common.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/valkyrienskies/valkyrienskies-common.toml"
   },
   {
    "path": "config/villagertradingplus/villagertradingplus-1.0-config.json5",
    "size": 3092,
    "sha1": "920ba2a06d5646e6f3c7a01a77323224e6e6fa9b",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/villagertradingplus/villagertradingplus-1.0-config.json5"
   },
   {
    "path": "config/watut-client.toml",
    "size": 3236,
    "sha1": "33ae71610a948dcf58759ce195a4e7dd404ae522",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/watut-client.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/watut-client.toml"
   },
   {
    "path": "config/watut-common.toml",
    "size": 154,
    "sha1": "d3e0021b6085144229ef72fe350a0fcd4bda4a41",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/watut-common.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/watut-common.toml"
   },
   {
    "path": "config/watut-item-arm-adjustments.json",
    "size": 3367,
    "sha1": "2cfa88c57c35df26af1391acb7f2f8eb8abd53ab",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/watut-item-arm-adjustments.json"
   },
   {
    "path": "config/watut-server.toml",
    "size": 2880,
    "sha1": "d2f0dac6010bcb94c8a46e71f609aeb6b3acc53d",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/watut-server.toml"
+   "url": ""
   },
   {
    "path": "config/waves-common.toml",
    "size": 3433,
    "sha1": "d75e5ed2a2dfb41f70c09bba80265186661254d0",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/waves-common.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/waves-common.toml"
   },
   {
    "path": "config/waves/waves.json",
@@ -1830,193 +1866,193 @@
    "path": "config/waystones-common.toml",
    "size": 6956,
    "sha1": "a815a7a44b15f6d5dd4ecb6fe3919d80423a1463",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/waystones-common.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/waystones-common.toml"
   },
   {
    "path": "config/wizards/effects.json",
    "size": 1320,
    "sha1": "86ff02373a94646b89ae34e28c04f89d5219ec19",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/wizards/effects.json"
   },
   {
    "path": "config/wizards/equipment_v2.json",
    "size": 14982,
    "sha1": "44c90a7158d46cbdb401a3e44af8552d09594ff0",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/wizards/equipment_v2.json"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/wizards/equipment_v2.json"
   },
   {
    "path": "config/wizards/summoned_entities.json",
    "size": 912,
    "sha1": "b29931581a94d93a4f09b6eec7db591ddd72f180",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/wizards/summoned_entities.json"
   },
   {
    "path": "config/wizards/tweaks.json",
    "size": 83,
    "sha1": "ec613117b39c59fc335c3e7545387c38ac76ad90",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/wizards/tweaks.json"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/wizards/tweaks.json"
   },
   {
    "path": "config/wizards/villages.json",
    "size": 1317,
    "sha1": "668b8c089195d08f3424c0ff6516297baf111ce2",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/wizards/villages.json"
   },
   {
    "path": "config/wom-client.toml",
    "size": 194,
    "sha1": "842702ac4cd9b8632109ff130a3549dcde4c21cd",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/wom-client.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/wom-client.toml"
   },
   {
    "path": "config/wom.toml",
    "size": 160,
    "sha1": "22b612989c4a69adddac8e91a0071a6289288118",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/wom.toml"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/wom.toml"
   },
   {
    "path": "config/xaero/lib/client.cfg",
    "size": 26,
    "sha1": "45cccfb3eb8a7a784bd4c29539e5558445f90bcf",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/xaero/lib/client.cfg"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/xaero/lib/client.cfg"
   },
   {
    "path": "config/xaero/lib/common.cfg",
    "size": 236,
    "sha1": "8ae8d6ea0330bec2c0db28b109a12443708f1e7b",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/xaero/lib/common.cfg"
   },
   {
    "path": "config/xaero/lib/profiles/default.cfg",
    "size": 121,
    "sha1": "253bac0f5181c8db8e488832c46a8d40018650cf",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/xaero/lib/profiles/default.cfg"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/xaero/lib/profiles/default.cfg"
   },
   {
    "path": "config/xaero/lib/server_profiles/default.cfg",
    "size": 75,
    "sha1": "8efdb5a6c4f4f41a36b531d54592321012491fb2",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/xaero/lib/server_profiles/default.cfg"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/xaero/lib/server_profiles/default.cfg"
   },
   {
    "path": "config/xaero/minimap/client.cfg",
    "size": 235,
    "sha1": "a18a4a75d6f033c35ecde56c14306760715a3a19",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/xaero/minimap/client.cfg"
   },
   {
    "path": "config/xaero/minimap/common.cfg",
    "size": 147,
    "sha1": "de09f45b29b264432b80d34bb0c336bd552fb9ee",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/xaero/minimap/common.cfg"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/xaero/minimap/common.cfg"
   },
   {
    "path": "config/xaero/minimap/default_radar_categories_client.json",
    "size": 5531,
    "sha1": "21fd62895118ce2198968bc8feb3ba9e2031f206",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/xaero/minimap/default_radar_categories_client.json"
   },
   {
    "path": "config/xaero/minimap/default_radar_categories_server.json",
    "size": 4597,
    "sha1": "c247867b018103357eb4015059fe209cc562de51",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/xaero/minimap/default_radar_categories_server.json"
   },
   {
    "path": "config/xaero/minimap/profiles/default.cfg",
    "size": 3922,
    "sha1": "99f79d7d403a78c38bd31e2f8d0739a78107e933",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/xaero/minimap/profiles/default.cfg"
   },
   {
    "path": "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json",
    "size": 5532,
    "sha1": "13cb628c64d9d44d9044f992feb61855864a138a",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
   },
   {
    "path": "config/xaero/minimap/profiles/info_display_config/default.cfg.txt",
    "size": 684,
    "sha1": "2b8d12369471b57bfa6426254b2170bc8e6b3b88",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
   },
   {
    "path": "config/xaero/minimap/server_profiles/default.cfg",
    "size": 75,
    "sha1": "8efdb5a6c4f4f41a36b531d54592321012491fb2",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/xaero/minimap/server_profiles/default.cfg"
   },
   {
    "path": "config/xaerohud.txt",
    "size": 123,
    "sha1": "9b2b47ea69e26908152d7ed1c6f90222745dced0",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/xaerohud.txt"
   },
   {
    "path": "config/xaeropatreon.txt",
    "size": 0,
    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/xaeropatreon.txt"
+   "url": ""
   },
   {
    "path": "config/yacl.json5",
    "size": 35,
    "sha1": "ef6eac77bc8ec50971872b820002db7227ece802",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/config/yacl.json5"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/yacl.json5"
   },
   {
    "path": "config/ydtwo-common.toml",
    "size": 539,
    "sha1": "5617ee7f127ffd1cd3a209079c5bfd8ab259552d",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/ydtwo-common.toml"
   },
   {
    "path": "kubejs/README.txt",
    "size": 1203,
    "sha1": "3e56c097cd0c5be61b767a9a9ae73ae083d2eca9",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/kubejs/README.txt"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/kubejs/README.txt"
   },
   {
    "path": "kubejs/assets/kubejs/textures/block/example_block.png",
    "size": 247,
    "sha1": "87f5ec8c26493050fc83543af8d33f2d28a98766",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/kubejs/assets/kubejs/textures/block/example_block.png"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/kubejs/assets/kubejs/textures/block/example_block.png"
   },
   {
    "path": "kubejs/assets/kubejs/textures/item/example_item.png",
    "size": 372,
    "sha1": "d9912cb709ad496b10f19f8b2c66d1e419eb760c",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/kubejs/assets/kubejs/textures/item/example_item.png"
   },
   {
    "path": "kubejs/client_scripts/example.js",
    "size": 126,
    "sha1": "dfe0a9197b4b80a3f1235afa6f825857d9ead98a",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/kubejs/client_scripts/example.js"
   },
   {
    "path": "kubejs/config/client.properties",
    "size": 375,
    "sha1": "e01409ce88369e04c5331943403ace1a528e3429",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/kubejs/config/client.properties"
   },
   {
    "path": "kubejs/config/common.properties",
    "size": 342,
    "sha1": "829a87dbbfd82b4034a5361e91529b68bc87440e",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/kubejs/config/common.properties"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/kubejs/config/common.properties"
   },
   {
    "path": "kubejs/server_scripts/example.js",
    "size": 126,
    "sha1": "9530c6a8d3608ca41418ccb29a01d179d5c06bab",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/kubejs/server_scripts/example.js"
+   "url": ""
   },
   {
    "path": "kubejs/startup_scripts/example.js",
    "size": 127,
    "sha1": "bbeca4224e5e4dd007400d47b0f1e6618e8c68ec",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/kubejs/startup_scripts/example.js"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/kubejs/startup_scripts/example.js"
   },
   {
    "path": "mods/Cinematic Interaction-Forge-1.20.1-0.18.30.jar",
@@ -2029,12 +2065,6 @@
    "size": 318788,
    "sha1": "dc26327631fa34c25139e2d3c95b3274e8978336",
    "url": "https://cdn.modrinth.com/data/ziOp6EO8/versions/OtJzHtsl/Corgilib-Forge-1.20.1-4.0.3.6.jar"
-  },
-  {
-   "path": "mods/Create-DnDesire-1.20.1-0.1b.Release-Early-Dev.jar",
-   "size": 14053547,
-   "sha1": "65b674978790c422706755c115633355f0f38e8e",
-   "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/GZxkqfDv/Create-DnDesire-1.20.1-0.1b.Release-Early-Dev.jar"
   },
   {
    "path": "mods/CreativeCore_FORGE_v2.12.42_mc1.20.1.jar",
@@ -2052,7 +2082,7 @@
    "path": "mods/GlitchCore-forge-1.20.1-0.0.1.1.jar",
    "size": 87550,
    "sha1": "1a0aaf7c33b9acb26bf75899a43e8941cac1f6e7",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/mods/GlitchCore-forge-1.20.1-0.0.1.1.jar"
   },
   {
    "path": "mods/Oh-The-Trees-Youll-Grow-forge-1.20.1-1.7.4.jar",
@@ -2070,19 +2100,19 @@
    "path": "mods/Searchables-forge-1.20.1-1.0.3.jar",
    "size": 77732,
    "sha1": "ed5a23ec30c90fd06b3f1d8140614028e1fafaee",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/mods/Searchables-forge-1.20.1-1.0.3.jar"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/mods/Searchables-forge-1.20.1-1.0.3.jar"
   },
   {
    "path": "mods/TerraBlender-forge-1.20.1-3.0.1.10.jar",
    "size": 107532,
    "sha1": "3bd99fb59e8b06b04e78b5153790c1e08b2be5dc",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/mods/TerraBlender-forge-1.20.1-3.0.1.10.jar"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/mods/TerraBlender-forge-1.20.1-3.0.1.10.jar"
   },
   {
    "path": "mods/Waves-1.20.1-1.6.1.jar",
    "size": 1337928,
    "sha1": "9704c7049b49ba6f5969ba2a1442490385764d03",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/mods/Waves-1.20.1-1.6.1.jar"
   },
   {
    "path": "mods/Yazz's Dungeons The Sequel - 1.20.1 - 1.0.1.jar",
@@ -2229,6 +2259,12 @@
    "url": "https://cdn.modrinth.com/data/L6jvzao4/versions/gJ59URg4/epic-knights-1.20.1-forge-10.15.jar"
   },
   {
+   "path": "mods/[合金 ／ 机械动力：合金] alloyed-2.1.4+1.20.1-forge.jar",
+   "size": 1153269,
+   "sha1": "5c16cec07cdd44d9de8335435c6b7f6e7a55c0d2",
+   "url": "https://cdn.modrinth.com/data/KUInlTFo/versions/9QsU50Zh/alloyed-2.1.4%2B1.20.1-forge.jar"
+  },
+  {
    "path": "mods/[墓园] graveyard-FORGE-4.0.1+mc1.20.1.jar",
    "size": 10999983,
    "sha1": "e11d7055d8bfab6ea477e1f61b7252fa8ef04b68",
@@ -2337,6 +2373,12 @@
    "url": "https://cdn.modrinth.com/data/MyfCcqiE/versions/EScBvcOc/create_interactive-1.2.1_1.20.1-forge.jar"
   },
   {
+   "path": "mods/[机械动力：交易站点] trading_floor-forge-1.20.1-2.0.5.jar",
+   "size": 288762,
+   "sha1": "073fe2c4b902975332190f16160ec418494f641a",
+   "url": "https://cdn.modrinth.com/data/WROfLLvn/versions/colmW8rh/trading_floor-forge-1.20.1-2.0.5.jar"
+  },
+  {
    "path": "mods/[机械动力：交错电网] powergrid-mc1.20.1-0.6.2.jar",
    "size": 5653584,
    "sha1": "e29587d7049786465c0b4000c00300b4dff87f5a",
@@ -2347,6 +2389,12 @@
    "size": 2003713,
    "sha1": "939d4ca4ac42b93c05a5fb92e629fb8cff060dc9",
    "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/LlMxIysb/copycats-3.0.10%2Bmc.1.20.1-forge.jar"
+  },
+  {
+   "path": "mods/[机械动力：光学] create_optical-0.4.2.jar",
+   "size": 8008586,
+   "sha1": "6dc6e158d213906ec620477bdf59fba9c31087e5",
+   "url": "https://cdn.modrinth.com/data/kcZ7kwxx/versions/P1wv4ixj/create_optical-0.4.2.jar"
   },
   {
    "path": "mods/[机械动力：内饰] interiors-1.20.1-forge-0.6.0.jar",
@@ -2403,6 +2451,24 @@
    "url": "https://cdn.modrinth.com/data/USgVjXsk/versions/ZNOx0jhg/tfmg-1.0.2f.jar"
   },
   {
+   "path": "mods/[机械动力：无人机物流] create_mobile_packages-1.20.1-0.6.1.jar",
+   "size": 489127,
+   "sha1": "d539e8b8a894918875907eb4597df86af17dc46e",
+   "url": "https://cdn.modrinth.com/data/1vXRfEHZ/versions/5KlbqQtT/create_mobile_packages-1.20.1-0.6.1.jar"
+  },
+  {
+   "path": "mods/[机械动力：晶莹剔透] Crystal-Clear-2.1-Beta-forge.jar",
+   "size": 200048,
+   "sha1": "90f0a118263a91661e58b2c56acccbbcf8afdc1c",
+   "url": "https://cdn.modrinth.com/data/h7QgiH72/versions/sOYtDSLp/Crystal-Clear-2.1-Beta-forge.jar"
+  },
+  {
+   "path": "mods/[机械动力：更多仪表] extra_gauges-2.0.7.jar",
+   "size": 1029438,
+   "sha1": "6f3331cc877bfaf15bb58723ff3129fc3207d296",
+   "url": "https://cdn.modrinth.com/data/6YJgomwt/versions/ZbA0Ejq9/extra_gauges-2.0.7.jar"
+  },
+  {
    "path": "mods/[机械动力：末影传输] createendertransmission-2.1.1-1.20.1.jar",
    "size": 84234,
    "sha1": "25a28e958fc9182c74bdb254c77803750ada3238",
@@ -2419,6 +2485,12 @@
    "size": 17042037,
    "sha1": "5f904126d942cdbd272a5254ec6145851e5e1e7a",
    "url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/7Uk6lWkU/Steam_Rails-1.7.3%2Bforge-mc1.20.1.jar"
+  },
+  {
+   "path": "mods/[机械动力：流体物流] create_factory_logistics-1.20.1-1.4.7.jar",
+   "size": 1112673,
+   "sha1": "bf67707d1645197f27cd9a4abea13159fa0fef1e",
+   "url": "https://cdn.modrinth.com/data/QMGO17gm/versions/cFuYsO3r/create_factory_logistics-1.20.1-1.4.7.jar"
   },
   {
    "path": "mods/[机械动力：液体燃料] createliquidfuel-2.2.0-1.20.1.jar",
@@ -2451,6 +2523,12 @@
    "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/7vnwbouk/create-new-age-1.2.0%2Bforge-mc1.20.1.jar"
   },
   {
+   "path": "mods/[机械动力：直通溜槽] direct_chute-1.0.0.jar",
+   "size": 59109,
+   "sha1": "65803bd4e30e8970b71ff48ed43281b5a67093e4",
+   "url": "https://cdn.modrinth.com/data/wKK8BgBy/versions/pCLCmtva/direct_chute-1.0.0.jar"
+  },
+  {
    "path": "mods/[机械动力：矿石开掘] createoreexcavation-1.20-1.6.6.jar",
    "size": 431227,
    "sha1": "d9a7a2298bfe79ce9cdbaebf22e58454414105eb",
@@ -2461,6 +2539,12 @@
    "size": 550212,
    "sha1": "15dcc73282213bd89731ca2a97c1555e54ef93a4",
    "url": "https://cdn.modrinth.com/data/ATDdrG1y/versions/Kk87Hx6x/create_hypertube-0.6.1-FORGE.jar"
+  },
+  {
+   "path": "mods/[机械动力：跑步机] createtreadmill-1.12.jar",
+   "size": 296534,
+   "sha1": "0c1a5f7b7009ac9c15ab22814650a4d6c4aafeed",
+   "url": "https://cdn.modrinth.com/data/N705v2dC/versions/aOIAcgZX/createtreadmill-1.12.jar"
   },
   {
    "path": "mods/[机械动力：钻石工厂] create_ diamond_ factory-1.20.1-1.0.4.jar",
@@ -2479,6 +2563,12 @@
    "size": 308064,
    "sha1": "f3af8889e1fa50fc1ef11b1e6a0bdbf5e8bef277",
    "url": "https://cdn.modrinth.com/data/H6bJ8Ju4/versions/8XoqeODw/create_tweaked_controllers-1.20.1-1.2.7.jar"
+  },
+  {
+   "path": "mods/[机械动力：鸡蛋产线] createeggproduction-1.1.1-fix.jar",
+   "size": 248489,
+   "sha1": "4e94ef07ba7e43be16be86474297184bc139b15b",
+   "url": "https://cdn.modrinth.com/data/cVconmno/versions/Fk0hNjQj/createeggproduction-1.1.1-fix.jar"
   },
   {
    "path": "mods/[机械动力：龙+] CreateDragonsPlus-1.11.9.jar",
@@ -2682,7 +2772,7 @@
    "path": "mods/alltheleaks-1.1.6-1.20.1-forge.jar",
    "size": 1274425,
    "sha1": "e61dfd54696a2feaa836c14cb4f523b5d227d3d1",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/mods/alltheleaks-1.1.6-1.20.1-forge.jar"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/mods/alltheleaks-1.1.6-1.20.1-forge.jar"
   },
   {
    "path": "mods/architectury-9.2.14-forge.jar",
@@ -2706,13 +2796,7 @@
    "path": "mods/balm-forge-1.20.1-7.3.44.jar",
    "size": 561741,
    "sha1": "b3f8a6a5823d3b4f2dce19c8aea9373e24bcb443",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/mods/balm-forge-1.20.1-7.3.44.jar"
-  },
-  {
-   "path": "mods/bellsandwhistles-0.4.5-1.20.x-Create6.0+.jar",
-   "size": 199902,
-   "sha1": "2487eea5f1368d70e16c7c6a08c18be3b5d3c0d0",
-   "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/kW8DoegV/bellsandwhistles-0.4.5-1.20.x-Create6.0%2B.jar"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/mods/balm-forge-1.20.1-7.3.44.jar"
   },
   {
    "path": "mods/bookofdragons-1.4.2-1.20.1.jar",
@@ -2736,7 +2820,7 @@
    "path": "mods/caelus-forge-3.2.0+1.20.1.jar",
    "size": 40125,
    "sha1": "fa834f140bf7dce7b67c29b46cb531f4309d3209",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/mods/caelus-forge-3.2.0%2B1.20.1.jar"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/mods/caelus-forge-3.2.0%2B1.20.1.jar"
   },
   {
    "path": "mods/citadel-2.6.3-1.20.1.jar",
@@ -2757,52 +2841,16 @@
    "url": "https://cdn.modrinth.com/data/rLLJ1OZM/versions/6rPDKAT8/coroutil-forge-1.20.1-1.3.7.jar"
   },
   {
-   "path": "mods/create-structures-0.1.1-1.20.1-FORGE.jar",
-   "size": 484781,
-   "sha1": "6bd0a029f7ae4e400b55f8355f73e69dc31bd1a8",
-   "url": "https://cdn.modrinth.com/data/IAnP4np7/versions/XALEBs0a/create-structures-0.1.1-1.20.1-FORGE.jar"
-  },
-  {
-   "path": "mods/create_jetpack-forge-4.4.6.jar",
-   "size": 638327,
-   "sha1": "066572eef380c5d3d34138110cf0c70c55c487bd",
-   "url": "https://cdn.modrinth.com/data/UbFnAd4l/versions/Ft2vxKG4/create_jetpack-forge-4.4.6.jar"
-  },
-  {
-   "path": "mods/create_oxidized-0.1.2.jar",
-   "size": 116477,
-   "sha1": "cf1aae96a1af67d6ea615060cf8061fc18730ddb",
-   "url": "https://cdn.modrinth.com/data/X9kjRZeX/versions/97H7hIZy/create_oxidized-0.1.2.jar"
-  },
-  {
-   "path": "mods/createbetterfps-1.20.1-1.1.2.jar",
-   "size": 25214,
-   "sha1": "e3906e1b5cc33ad9ff930fc65b316564a3059fbf",
-   "url": "https://cdn.modrinth.com/data/lMYIHZNH/versions/75GMC9GD/createbetterfps-1.20.1-1.1.2.jar"
-  },
-  {
-   "path": "mods/createdeco-2.0.3-1.20.1-forge.jar",
-   "size": 3509013,
-   "sha1": "54c8ad5686b846310bca9e69982a455e668dede3",
-   "url": "https://cdn.modrinth.com/data/sMvUb4Rb/versions/e9gaSRMd/createdeco-2.0.3-1.20.1-forge.jar"
-  },
-  {
-   "path": "mods/creategoggles-1.20.1-6.1.1-[FORGE].jar",
-   "size": 384668,
-   "sha1": "b4c33c5aef3af53d3bd2074034c6c011789eef65",
-   "url": "https://cdn.modrinth.com/data/L1RT5SJc/versions/Nc2Ag5HT/creategoggles-1.20.1-6.1.1-%5BFORGE%5D.jar"
+   "path": "mods/createcmo-1.2.1-create-6.0.x-forge-1.20.1.jar",
+   "size": 65212,
+   "sha1": "3fb595554b71450ce156f45f5a1c991ef2a46a9e",
+   "url": "https://cdn.modrinth.com/data/pd8eLyMu/versions/4kMqpiVM/createcmo-1.2.1-create-6.0.x-forge-1.20.1.jar"
   },
   {
    "path": "mods/curios-forge-5.14.1+1.20.1.jar",
    "size": 398066,
    "sha1": "452175b95ad3db6ff58bb8968f6bf7a9d1e0f480",
    "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/IPQlZkz1/curios-forge-5.14.1%2B1.20.1.jar"
-  },
-  {
-   "path": "mods/design_decor-0.4.0b-1.20.1.jar",
-   "size": 2439693,
-   "sha1": "66a40d00191fcfd8d674d200b94427197503c2c8",
-   "url": "https://cdn.modrinth.com/data/x49wilh8/versions/JtCSM1oV/design_decor-0.4.0b-1.20.1.jar"
   },
   {
    "path": "mods/do_a_barrel_roll-forge-3.5.6+1.20.1.jar",
@@ -2856,7 +2904,7 @@
    "path": "mods/grandsigil-1.20.1-forge-1.6.1.jar",
    "size": 4078190,
    "sha1": "b72ec24d33938db44151fc4eeaf3a0051a267700",
-   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/mods/grandsigil-1.20.1-forge-1.6.1.jar"
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/mods/grandsigil-1.20.1-forge-1.6.1.jar"
   },
   {
    "path": "mods/gtbcs_spell_lib-3.0.0-1.20.1.jar",
@@ -2874,7 +2922,7 @@
    "path": "mods/holdmyitems-1.20.1-4v2.1.jar",
    "size": 335620,
    "sha1": "a4f7aadb9c0886a095d0f394c0ad05670033af32",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/mods/holdmyitems-1.20.1-4v2.1.jar"
   },
   {
    "path": "mods/irons_lib-1.20.1-2.4.0.jar",
@@ -2937,18 +2985,6 @@
    "url": "https://cdn.modrinth.com/data/gedNE4y2/versions/xe2EVE6q/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar"
   },
   {
-   "path": "mods/rechiseled-1.2.6-forge-mc1.20.1.jar",
-   "size": 11895585,
-   "sha1": "21d490e6aa8ba2ac7fad315d937b0b8f21b8c639",
-   "url": "https://cdn.modrinth.com/data/B0g2vT6l/versions/H9XQzWIp/rechiseled-1.2.6-forge-mc1.20.1.jar"
-  },
-  {
-   "path": "mods/rechiseledcreate-1.1.1-forge-mc1.20.jar",
-   "size": 1007122,
-   "sha1": "e5b7ac2e58ef763d67ff9ab1c3a455707b77be50",
-   "url": "https://cdn.modrinth.com/data/E6867niZ/versions/y67Ftzhj/rechiseledcreate-1.1.1-forge-mc1.20.jar"
-  },
-  {
    "path": "mods/ritchiesprojectilelib-2.1.1+mc.1.20.1-forge.jar",
    "size": 78625,
    "sha1": "3e13ad86b2cc4107b8a18eec1d980ed19cdc37aa",
@@ -2965,12 +3001,6 @@
    "size": 2096322,
    "sha1": "7091528b7228e12602e097afa14f34629067afaf",
    "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/6NG8MGVh/skinlayers3d-forge-1.11.4-mc1.20.1.jar"
-  },
-  {
-   "path": "mods/sliceanddice-forge-3.6.0.jar",
-   "size": 588268,
-   "sha1": "a4e47dbf4382ebe092b6c2cb71919e412b456d84",
-   "url": "https://cdn.modrinth.com/data/GmjmRQ0A/versions/KWLI8Ng7/sliceanddice-forge-3.6.0.jar"
   },
   {
    "path": "mods/sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
@@ -2995,18 +3025,6 @@
    "size": 761800,
    "sha1": "4a90478fd7c3cd0f4321ca3e9a2f4baec11d84c1",
    "url": "https://cdn.modrinth.com/data/LrYZi08Q/versions/NJgGaMco/structure_pool_api-forge-1.2.1%2B1.20.1.jar"
-  },
-  {
-   "path": "mods/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
-   "size": 206584,
-   "sha1": "f80f9eed728966adcfbcc848633e789645057281",
-   "url": "https://cdn.modrinth.com/data/LN9BxssP/versions/ZKor79dR/supermartijn642configlib-1.1.8-forge-mc1.20.jar"
-  },
-  {
-   "path": "mods/supermartijn642corelib-1.1.26b-forge-mc1.20.1.jar",
-   "size": 599964,
-   "sha1": "eaf6aab4c1168d3ed93f182c2974b0ac08e3f789",
-   "url": "https://cdn.modrinth.com/data/rOUBggPv/versions/IezBcT86/supermartijn642corelib-1.1.26b-forge-mc1.20.1.jar"
   },
   {
    "path": "mods/threateningly_mobs-1.1.1-forge-1.20.1.jar",

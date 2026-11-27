@@ -1,0 +1,276 @@
+{
+  "entries": [
+    {
+      "item": "irons_spellbooks:magic_cloth",
+      "emc": 100
+    },
+    {
+      "item": "irons_spellbooks:bloody_vellum",
+      "emc": 100
+    },
+    {
+      "item": "irons_spellbooks:hogskin",
+      "emc": 100
+    },
+    {
+      "item": "irons_spellbooks:dragonskin",
+      "emc": 1000
+    },
+    {
+      "item": "irons_spellbooks:arcane_essence",
+      "emc": 100
+    },
+    {
+      "item": "irons_spellbooks:ruined_book",
+      "emc": 1000
+    },
+    {
+      "item": "irons_spellbooks:mithril_ingot",
+      "emc": 100
+    },
+    {
+      "item": "irons_spellbooks:frozen_bone",
+      "emc": 200
+    },
+    {
+      "item": "magistuarmory:corruptedroundshield{Damage:0}",
+      "emc": 10
+    },
+    {
+      "item": "magistuarmory:rusted_heavymace{Damage:0}",
+      "emc": 10
+    },
+    {
+      "item": "iceandfire:dragonegg_copper",
+      "emc": 10000
+    },
+    {
+      "item": "iceandfire:dragonscales_silver",
+      "emc": 500
+    },
+    {
+      "item": "iceandfire:dragonscales_gray",
+      "emc": 500
+    },
+    {
+      "item": "iceandfire:dragonscales_blue",
+      "emc": 500
+    },
+    {
+      "item": "iceandfire:dragonscales_black",
+      "emc": 500
+    },
+    {
+      "item": "iceandfire:dragonscales_copper",
+      "emc": 500
+    },
+    {
+      "item": "iceandfire:dragonegg_bronze",
+      "emc": 10000
+    },
+    {
+      "item": "iceandfire:dragonscales_white",
+      "emc": 500
+    },
+    {
+      "item": "iceandfire:dragonbone",
+      "emc": 100
+    },
+    {
+      "item": "iceandfire:dragonscales_green",
+      "emc": 500
+    },
+    {
+      "item": "iceandfire:dragonegg_black",
+      "emc": 10000
+    },
+    {
+      "item": "iceandfire:dragonegg_silver",
+      "emc": 10000
+    },
+    {
+      "item": "iceandfire:dragonegg_sapphire",
+      "emc": 10000
+    },
+    {
+      "item": "iceandfire:dragonegg_blue",
+      "emc": 10000
+    },
+    {
+      "item": "magistuarmory:rustedcrusader_boots{Damage:0}",
+      "emc": 10
+    },
+    {
+      "item": "magistuarmory:rustednorman_helmet{Damage:0}",
+      "emc": 10
+    },
+    {
+      "item": "magistuarmory:rustedcrusader_chestplate{Damage:0}",
+      "emc": 10
+    },
+    {
+      "item": "magistuarmory:rustedgreathelm{Damage:0}",
+      "emc": 10
+    },
+    {
+      "item": "magistuarmory:rustedhalfarmor_chestplate{Damage:0}",
+      "emc": 10
+    },
+    {
+      "item": "magistuarmory:rustedbarbute{Damage:0}",
+      "emc": 10
+    },
+    {
+      "item": "magistuarmory:rustedchainmail_boots{Damage:0}",
+      "emc": 10
+    },
+    {
+      "item": "magistuarmory:rustedchainmail_chestplate{Damage:0}",
+      "emc": 10
+    },
+    {
+      "item": "magistuarmory:rusted_bastardsword{Damage:0}",
+      "emc": 10
+    },
+    {
+      "item": "magistuarmory:rustedchainmail_helmet{Damage:0}",
+      "emc": 10
+    },
+    {
+      "item": "iceandfire:witherbone",
+      "emc": 500
+    },
+    {
+      "item": "goety:cursed_cage",
+      "emc": 1000
+    },
+    {
+      "item": "goety:wind_core",
+      "emc": 100
+    },
+    {
+      "item": "goety:hunger_core",
+      "emc": 100
+    },
+    {
+      "item": "goety:empty_focus",
+      "emc": 100
+    },
+    {
+      "item": "goety:shadow_essence",
+      "emc": 100
+    },
+    {
+      "item": "iceandfire:dragonscales_red",
+      "emc": 500
+    },
+    {
+      "item": "goety:animation_core",
+      "emc": 100
+    },
+    {
+      "item": "goety:dark_ingot",
+      "emc": 500
+    },
+    {
+      "item": "iceandfire:dragonegg_red",
+      "emc": 10000
+    },
+    {
+      "item": "goety:mystic_core",
+      "emc": 100
+    },
+    {
+      "item": "iceandfire:manuscript",
+      "emc": 100
+    },
+    {
+      "item": "goety:pale_steel_ingot",
+      "emc": 100
+    },
+    {
+      "item": "goety:sculk_grower",
+      "emc": 500
+    },
+    {
+      "item": "goety:shade_gravestone",
+      "emc": 500
+    },
+    {
+      "item": "goety:necro_brazier",
+      "emc": 500
+    },
+    {
+      "item": "goety:ectoplasm",
+      "emc": 100
+    },
+    {
+      "item": "goety:sealer",
+      "emc": 100
+    },
+    {
+      "item": "goety:void_shard",
+      "emc": 1000
+    },
+    {
+      "item": "iceandfire:dragonegg_amythest",
+      "emc": 10000
+    },
+    {
+      "item": "iceandfire:dragonegg_electric",
+      "emc": 10000
+    },
+    {
+      "item": "iceandfire:dragonscales_amythest",
+      "emc": 500
+    },
+    {
+      "item": "slashblade:bladestand_v",
+      "emc": 100
+    },
+    {
+      "item": "slashblade:bladestand_s",
+      "emc": 100
+    },
+    {
+      "item": "slashblade:bladestand_2w",
+      "emc": 100
+    },
+    {
+      "item": "slashblade:bladestand_2",
+      "emc": 100
+    },
+    {
+      "item": "slashblade:bladestand_1w",
+      "emc": 100
+    },
+    {
+      "item": "slashblade:bladestand_1",
+      "emc": 100
+    },
+    {
+      "item": "slashblade:proudsoul_crystal",
+      "emc": 500
+    },
+    {
+      "item": "slashblade:proudsoul_trapezohedron",
+      "emc": 500
+    },
+    {
+      "item": "slashblade:proudsoul_sphere",
+      "emc": 500
+    },
+    {
+      "item": "slashblade:proudsoul_tiny",
+      "emc": 100
+    },
+    {
+      "item": "slashblade:proudsoul",
+      "emc": 100
+    },
+    {
+      "item": "slashblade:slashblade{Enchantments:[{id:\"minecraft:unbreaking\",lvl:3s},{id:\"minecraft:power\",lvl:5s}],bladeState:{AttackAmplifier:0.0f,ComboRoot:\"slashblade:standby\",Damage:0,ModelName:\"slashblade_addon:model/kirisaya/kirisaya.obj\",RepairCounter:0,SpecialAttackType:\"slashblade:drive_horizontal\",SpecialEffects:[\"slashblade_addon:burst_drive\"],StandbyRenderType:4b,SummonedSwordColor:-13421569,SummonedSwordColorInverse:0b,TargetEntity:0,TextureName:\"slashblade_addon:model/kirisaya/kirisaya.png\",_onClick:0b,adjustXYZ:[0.0d,0.0d,0.0d],baseAttackModifier:3.0f,currentCombo:\"slashblade:none\",fallDecreaseRate:0.0f,isBroken:0b,isDefaultBewitched:1b,isSealed:0b,killCount:0,lastActionTime:2200064L,maxDamage:11,proudSoul:0,translationKey:\"item.slashblade_addon.kirisaya\"}}",
+      "emc": 150
+    }
+  ]
+}

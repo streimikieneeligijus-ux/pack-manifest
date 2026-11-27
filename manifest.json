@@ -1242,19 +1242,19 @@
    "path": "config/jei/world/local/新的世界/lookupHistory.ini",
    "size": 217,
    "sha1": "31da4dcc79aa2aaaf0338e01d71e70cb5273fd9e",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/jei/world/local/%E6%96%B0%E7%9A%84%E4%B8%96%E7%95%8C/lookupHistory.ini"
   },
   {
    "path": "config/jei/world/server/Minecraft服务器 (172_19_163_3 55555)/lookupHistory.ini",
    "size": 249,
    "sha1": "7f6ec042ab94aeb29cb1a261bc51b59c0dc56f0b",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/jei/world/server/Minecraft%E6%9C%8D%E5%8A%A1%E5%99%A8%20%28172_19_163_3%2055555%29/lookupHistory.ini"
   },
   {
    "path": "config/jei/world/server/Minecraft服务器 (172_19_163_3 62944)/lookupHistory.ini",
    "size": 36472,
    "sha1": "43c4e6c70492599dd96d01c9735640dfa9503699",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/config/jei/world/server/Minecraft%E6%9C%8D%E5%8A%A1%E5%99%A8%20%28172_19_163_3%2062944%29/lookupHistory.ini"
   },
   {
    "path": "config/jujutsu_kaisen-client.toml",
@@ -2022,7 +2022,7 @@
    "path": "mods/Cinematic Interaction-Forge-1.20.1-0.18.30.jar",
    "size": 1314545,
    "sha1": "9fb8423c3963ddd3449c480daae7d81e72632762",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/mods/Cinematic%20Interaction-Forge-1.20.1-0.18.30.jar"
   },
   {
    "path": "mods/Corgilib-Forge-1.20.1-4.0.3.6.jar",
@@ -2082,7 +2082,7 @@
    "path": "mods/Yazz's Dungeons The Sequel - 1.20.1 - 1.0.1.jar",
    "size": 5632114,
    "sha1": "e2a12ab0985e8cd77728eb83eaaf5ee2a77137f0",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/mods/Yazz%27s%20Dungeons%20The%20Sequel%20-%201.20.1%20-%201.0.1.jar"
   },
   {
    "path": "mods/YungsApi-1.20-Forge-4.0.6.jar",
@@ -2202,7 +2202,7 @@
    "path": "mods/[修复GPU内存泄漏] gpumemleakfix-1.20.1-1.8.jar",
    "size": 7997,
    "sha1": "54301c2db5467e0f9f5c504887436f358335331f",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/mods/%5B%E4%BF%AE%E5%A4%8DGPU%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F%5D%20gpumemleakfix-1.20.1-1.8.jar"
   },
   {
    "path": "mods/[内存泄漏修复] memoryleakfix-forge-1.17+-1.1.5.jar",
@@ -2286,7 +2286,7 @@
    "path": "mods/[暮色森林] twilightforest-1.20.1-4.3.2508-universal.jar",
    "size": 23332091,
    "sha1": "fa3b506a45d3e9c465551cd533fd50c899496e9f",
-   "url": ""
+   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/mods/%5B%E6%9A%AE%E8%89%B2%E6%A3%AE%E6%9E%97%5D%20twilightforest-1.20.1-4.3.2508-universal.jar"
   },
   {
    "path": "mods/[更多动画] notenoughanimations-forge-1.12.7-mc1.20.1.jar",
@@ -2532,25 +2532,25 @@
    "path": "mods/[等价交换重制版] ProjectE-1.20.1-PE1.0.1.jar",
    "size": 2257347,
    "sha1": "affd130b8a77e60dd7d7f7f3621d0182d82d13e1",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/mods/%5B%E7%AD%89%E4%BB%B7%E4%BA%A4%E6%8D%A2%E9%87%8D%E5%88%B6%E7%89%88%5D%20ProjectE-1.20.1-PE1.0.1.jar"
   },
   {
    "path": "mods/[精妙核心] sophisticatedcore-1.20.1-1.5.37.2488.jar",
    "size": 1784586,
    "sha1": "6b5d07c86f838ff46adb88629088e45df8f2aa53",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/mods/%5B%E7%B2%BE%E5%A6%99%E6%A0%B8%E5%BF%83%5D%20sophisticatedcore-1.20.1-1.5.37.2488.jar"
   },
   {
    "path": "mods/[精妙背包] sophisticatedbackpacks-1.20.1-3.26.21.2256.jar",
    "size": 1234018,
    "sha1": "efc4bc6fae26953a6b2aafb7250946c8aaf608b1",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/mods/%5B%E7%B2%BE%E5%A6%99%E8%83%8C%E5%8C%85%5D%20sophisticatedbackpacks-1.20.1-3.26.21.2256.jar"
   },
   {
    "path": "mods/[精致存储] refinedstorage-1.12.4.jar",
    "size": 3300191,
    "sha1": "ff9e83c81344d0bfe9e0bb53c6df00c7e0a39cf5",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/mods/%5B%E7%B2%BE%E8%87%B4%E5%AD%98%E5%82%A8%5D%20refinedstorage-1.12.4.jar"
   },
   {
    "path": "mods/[终焉图书馆] EndingLibrary-1.20.1-2.2.3-all.jar",
@@ -2568,7 +2568,7 @@
    "path": "mods/[自定义局域网联机] lanserverproperties-1.11.1-forge.jar",
    "size": 44387,
    "sha1": "6ae8c8a97e51b6f2b9e72cd5812bdf4880588363",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/mods/%5B%E8%87%AA%E5%AE%9A%E4%B9%89%E5%B1%80%E5%9F%9F%E7%BD%91%E8%81%94%E6%9C%BA%5D%20lanserverproperties-1.11.1-forge.jar"
   },
   {
    "path": "mods/[苹果皮] appleskin-forge-mc1.20.1-2.5.1.jar",
@@ -2592,7 +2592,7 @@
    "path": "mods/[诡厄巫法：启示录] GoetyRevelation-2.3.6.jar",
    "size": 18716401,
    "sha1": "314bed11d4d82b6160eacba94103099e214398a4",
-   "url": ""
+   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/mods/%5B%E8%AF%A1%E5%8E%84%E5%B7%AB%E6%B3%95%EF%BC%9A%E5%90%AF%E7%A4%BA%E5%BD%95%5D%20GoetyRevelation-2.3.6.jar"
   },
   {
    "path": "mods/[诡厄巫法：觉醒] GoetyAwaken-26.11.1.jar",
@@ -2610,7 +2610,7 @@
    "path": "mods/[超多生物群系] BiomesOPlenty-forge-1.20.1-19.0.0.96.jar",
    "size": 22381010,
    "sha1": "957adcd274e7c64853c93293976ecdd388a3b7fe",
-   "url": ""
+   "url": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/files/mods/%5B%E8%B6%85%E5%A4%9A%E7%94%9F%E7%89%A9%E7%BE%A4%E7%B3%BB%5D%20BiomesOPlenty-forge-1.20.1-19.0.0.96.jar"
   },
   {
    "path": "mods/[越肩视角重制] ShoulderSurfing-Forge-1.20.1-5.3.1.jar",
@@ -2628,19 +2628,19 @@
    "path": "mods/[键位冲突显示] Controlling-forge-1.20.1-12.0.2.jar",
    "size": 115280,
    "sha1": "f6d3cdd3ec68c5590cf5b2e89c38dbf031824bfd",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/mods/%5B%E9%94%AE%E4%BD%8D%E5%86%B2%E7%AA%81%E6%98%BE%E7%A4%BA%5D%20Controlling-forge-1.20.1-12.0.2.jar"
   },
   {
    "path": "mods/[雕凿工艺] chisels-and-bits-forge-20.1.20.jar",
    "size": 2104697,
    "sha1": "aa88d268371df1d65abcf355ad2d69fa0ce7c603",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/mods/%5B%E9%9B%95%E5%87%BF%E5%B7%A5%E8%89%BA%5D%20chisels-and-bits-forge-20.1.20.jar"
   },
   {
    "path": "mods/[静谧四季／季节] SereneSeasons-forge-1.20.1-9.1.0.3.jar",
    "size": 160885,
    "sha1": "e553c2a50dc08d7b8b2aee6da1db0dc156fe961a",
-   "url": ""
+   "url": "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/files/mods/%5B%E9%9D%99%E8%B0%A7%E5%9B%9B%E5%AD%A3%EF%BC%8F%E5%AD%A3%E8%8A%82%5D%20SereneSeasons-forge-1.20.1-9.1.0.3.jar"
   },
   {
    "path": "mods/[鞘翅插槽 ／ 鞘翅槽位] elytraslot-forge-6.4.4+1.20.1.jar",

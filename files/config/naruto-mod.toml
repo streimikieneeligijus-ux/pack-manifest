@@ -1,0 +1,56 @@
+
+#Server based settings
+[server]
+
+	#Player settings
+	[server.player]
+
+		#Stuff such as regen rates and maximum (will likely change with updates, e.g. stats system)
+		[server.player.energy_bars]
+			#Max Chakra
+			#Range: 0.0 ~ 1.7976931348623157E308
+			maxChakra = 100.0
+			#Chakra Regen
+			#Range: 0.0 ~ 1.7976931348623157E308
+			chakraRegen = 0.05
+			#Max Stamina
+			#Range: 0.0 ~ 1.7976931348623157E308
+			maxStamina = 100.0
+			#Stamina Regen
+			#Range: 0.0 ~ 1.7976931348623157E308
+			staminaRegen = 0.4
+			#Max Substitutions
+			#Range: > 0
+			maxSubstitutions = 3
+			#Substitution Regen Time (Seconds)
+			#Range: > 0
+			substitutionRegenTime = 60
+
+	#Variables for weapons
+	[server.weapons]
+		#Explosive Kunai block damage
+		kunaiExplosionBreakBlocks = true
+		#Explosive Kunai explosion radius
+		#Range: 1.0 ~ 100.0
+		kunaiExplosionRadius = 3.0
+		#Paper Bomb explosion radius
+		#Range: 1.0 ~ 100.0
+		paperBombExplosionRadius = 4.0
+		#Paper Bomb block damage
+		paperBombExplosionBreakBlocks = true
+		#Key hold threshold in ticks (20 per second)
+		#Range: > 0
+		jutsuKeyHoldThreshold = 15
+		#Jutsu activation delay (20 per second)
+		#Range: > 0
+		jutsuActivateDelay = 15
+
+#Client based settings
+[client]
+
+	#Variables for UI
+	[client.ui]
+		#Design for the chara bar
+		#Range: 0 ~ 7
+		chakraBarDesign = 0
+

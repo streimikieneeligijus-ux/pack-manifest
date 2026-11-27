@@ -1,0 +1,1083 @@
+
+["Servant Limits"]
+	#Vanguard Champion limit per player (default: 7)
+	#Range: > 1
+	vanguardChampionLimit = 7
+	#Wight Servant limit per player (default: 4)
+	#Range: > 1
+	wightServantLimit = 4
+	#Nameless One limit per player (default: 1)
+	#Range: > 1
+	namelessOneLimit = 1
+	#Wither Servant limit per player (default: 2)
+	#Range: > 1
+	witherServantLimit = 2
+	#Swampjaw Servant limit per player (default: 4)
+	#Range: > 4
+	swampjawServantLimit = 4
+	#Dame Fortuna Servant limit per player (default: 3)
+	#Range: > 1
+	dameFortunaServantLimit = 3
+	#Sculk Leech Servant limit per player (default: 64)
+	#Range: > 1
+	sculkLeechServantLimit = 64
+	#Creeper Servant limit per player (default: 32)
+	#Range: > 1
+	creeperServantLimit = 32
+	#Angry Mooshroom limit per player (default: 16)
+	#Range: > 1
+	angryMooshroomLimit = 16
+	#Giant Servant limit per player (default: 2)
+	#Range: > 1
+	giantServantLimit = 2
+	#Toxifin Servant limit per player (default: 16)
+	#Range: > 1
+	toxifinServantLimit = 16
+	#Shulker Servant limit per player (default: 8)
+	#Range: > 1
+	shulkerServantLimit = 8
+	#Tormentor Servant limit per player (default: 8)
+	#Range: > 1
+	tormentorServantLimit = 8
+	#Mooshroom Monstrosity limit per player (default: 1)
+	#Range: > 1
+	mushroomMonstrosityLimit = 1
+	#Pale Golem Servant limit per player
+	#Range: > 1
+	paleGolemLimit = 4
+	#Burning Shield limit per player (default: 12)
+	#Range: > 1
+	burningShieldLimit = 12
+	#Rosalyne Servant limit per player (default: 2)
+	#Range: > 1
+	rosalyneServantLimit = 2
+	#Caerbannog Rabbit Servant limit per player (default: 16)
+	#Range: > 1
+	caerbannogRabbitServantLimit = 16
+	#Warden Servant limit per player
+	#Range: > 2
+	wardenServantLimit = 2
+	#Apostle Servant limit per player (default: 2)
+	#Range: > 1
+	apostleServantLimit = 2
+	#Stalker Servant limit per player (default: 3)
+	#Range: > 1
+	stalkerServantLimit = 3
+	#Bellringer Servant limit per player (default: 4)
+	#Range: > 1
+	bellringerServantLimit = 4
+	#Ruins Necromancer limit per player (default: 2)
+	#Range: > 1
+	ruinsNecromancerLimit = 2
+	#Maid Fairy Servant limit per player (default: 64)
+	#Range: > 1
+	maidFairyServantLimit = 64
+	#Ender Keeper Servant limit per player (default: 1)
+	#Range: > 1
+	enderKeeperServantLimit = 1
+	#Shattered Servant limit per player (default: 8)
+	#Range: > 1
+	shatteredServantLimit = 8
+	#Enderman Servant limit per player (default: 16)
+	#Range: > 1
+	endermanServantLimit = 16
+	#Masquerader Servant limit per player (default: 2)
+	#Range: > 1
+	masqueraderServantLimit = 2
+	#Shriek Worm Servant limit per player (default: 4)
+	#Range: > 1
+	shriekWormServantLimit = 4
+	#Sculk Centipede Servant limit per player (default: 24)
+	#Range: > 1
+	sculkCentipedeServantLimit = 24
+	#Sludge Servant limit per player (default: 32)
+	#Range: > 1
+	sludgeServantLimit = 32
+	#Plaguewhale Slab Servant limit per player (default: 4)
+	#Range: > 1
+	plaguewhaleSlabServantLimit = 4
+	#Wraith Necromancer limit per player (default: 2)
+	#Range: > 1
+	wraithNecromancerLimit = 2
+
+[Trade]
+	#Sorcerer Servant maximum uses per trade offer (default: 4)
+	#Range: > 1
+	sorcererServantTradeMaxUses = 4
+	#Crone Servant cooldown after restocking in ticks (default: 12000 = 10 minutes)
+	#Range: > 0
+	croneServantRestockCooldown = 12000
+	#Heresiarch Servant maximum uses per trade offer (default: 4)
+	#Range: > 1
+	heresiarchServantTradeMaxUses = 4
+	#Number of trade offers generated for Crone Servant (default: 10)
+	#Range: > 1
+	croneServantTradeCount = 10
+	#Prophet Servant minimum interval between restocks in ticks (default: 2400 = 2 minutes)
+	#Range: > 0
+	prophetServantRestockInterval = 2400
+	#Sorcerer Servant maximum restocks per day (default: 2)
+	#Range: > 1
+	sorcererServantRestockLimit = 2
+	#Crone Servant maximum uses per trade offer (default: 4)
+	#Range: > 1
+	croneServantTradeMaxUses = 4
+	#Prophet Servant maximum uses per trade offer (default: 4)
+	#Range: > 1
+	prophetServantTradeMaxUses = 4
+	#Crone Servant minimum interval between restocks in ticks (default: 2400 = 2 minutes)
+	#Range: > 0
+	croneServantRestockInterval = 2400
+	#Prophet Servant maximum restocks per day (default: 2)
+	#Range: > 1
+	prophetServantRestockLimit = 2
+	#Crone Servant maximum restocks per day (default: 2)
+	#Range: > 1
+	croneServantRestockLimit = 2
+	#Prophet Servant cooldown after restocking in ticks (default: 12000 = 10 minutes)
+	#Range: > 0
+	prophetServantRestockCooldown = 12000
+	#Number of trade offers generated for Prophet Servant (default: 10)
+	#Range: > 1
+	prophetServantTradeCount = 10
+	#Sorcerer Servant minimum interval between restocks in ticks (default: 2400 = 2 minutes)
+	#Range: > 0
+	sorcererServantRestockInterval = 2400
+	#Heresiarch Servant maximum restocks per day (default: 2)
+	#Range: > 1
+	heresiarchServantRestockLimit = 2
+	#Number of trade offers generated for Heresiarch Servant (default: 10)
+	#Range: > 1
+	heresiarchServantTradeCount = 10
+	#Sorcerer Servant cooldown after restocking in ticks (default: 12000 = 10 minutes)
+	#Range: > 0
+	sorcererServantRestockCooldown = 12000
+	#Heresiarch Servant cooldown after restocking in ticks (default: 12000 = 10 minutes)
+	#Range: > 0
+	heresiarchServantRestockCooldown = 12000
+	#Heresiarch Servant minimum interval between restocks in ticks (default: 2400 = 2 minutes)
+	#Range: > 0
+	heresiarchServantRestockInterval = 2400
+	#Maximum number of Prophet Servants per player (default: 2)
+	#Range: > 1
+	prophetServantLimit = 2
+
+["Structure Settings"]
+	#List of structures that will receive foundation generation. Format: modid:structure_name
+	foundationWhitelist = ["goetyawaken:mirage", "goetyawaken:ominous_castle", "goetyawaken:arch_illusioner_keep"]
+	#How many blocks above the structure base to scan for cavities
+	#Range: 1 ~ 50
+	foundationScanAbove = 7
+	#How many blocks below the structure base to scan for cavities. Increase this if you see hollow spaces under structures.
+	#Range: 10 ~ 200
+	foundationScanBelow = 50
+
+["Mob Spawning"]
+	#Allow Bouldering Zombie to naturally spawn. Default: false
+	boulderingZombieSpawn = false
+	#Allow Hostile Gnasher to naturally spawn. Default: false
+	hostileGnasherSpawn = false
+	#Allow Hostile Snapper to naturally spawn. Default: false
+	hostileSnapperSpawn = false
+	#Allow Hostile Spider Creeder to naturally spawn. Default: false
+	hostileSpiderCreederSpawn = false
+	#Allow Zombie Darkguard to naturally spawn. Default: false
+	zombieDarkguardSpawn = false
+	#Allow Parched to naturally spawn. Default: false
+	parchedSpawn = false
+	#Allow Ice Creeper to naturally spawn. Default: false
+	iceCreeperSpawn = false
+	#Allow Skeleton Vanguard to naturally spawn. Default: false
+	skeletonVanguardSpawn = false
+	#Allow Hostile Tropical Slime to naturally spawn. Default: false
+	hostileTropicalSlimeSpawn = false
+	#Allow Frozen Zombie to naturally spawn. Default: false
+	frozenZombieSpawn = false
+	#Allow Sunken Skeleton to naturally spawn. Default: false
+	sunkenSkeletonSpawn = false
+	#Allow Hostile Mini Ghast to naturally spawn. Default: false
+	hostileMiniGhastSpawn = false
+	#Allow Hostile Wildfire to naturally spawn. Default: false
+	hostileWildfireSpawn = false
+	#Allow Jungle Zombie to naturally spawn. Default: false
+	jungleZombieSpawn = false
+	#Allow Hostile Twilight Goat to naturally spawn. Default: false
+	hostileTwilightGoatSpawn = false
+
+["Misc Settings"]
+	#Armor points granted by Armor Enhancement (default: 15.0)
+	armorEnhancementArmor = 15.0
+	#Allow the Spell Bounce attribute to affect non-spell projectiles (arrows, snowballs, thrown potions, tridents, ender pearls, etc). Default: false
+	allowSpellBounceOnNonSpellProjectiles = false
+	#X offset of the self mob enchantment list. Default: 6
+	#Range: 0 ~ 2000
+	selfMobEnchantHudX = 6
+	#Hostile Illagers (Pillager, Vindicator, Crusher, Mountaineer) may spawn with Armor Enhancement. Chance is regional difficulty * 4%%, capped at 25%% (default: false)
+	hostileArmorEnhancementSpawn = false
+	#Y offset of the self mob enchantment list. Default: 6
+	#Range: 0 ~ 2000
+	selfMobEnchantHudY = 6
+	#Armor toughness points granted by Armor Enhancement (default: 4.0)
+	armorEnhancementToughness = 4.0
+	#Allow Heresiarch Servant to apply Hysteria effect to its summons (default: true)
+	heresiarchServantAllowHysteria = true
+	#Cursechanter blacklisted entity ids that will never be selected as enchant or curse targets. Default: [minecraft:vex, goety:neollager, goety:prisoner, goety:irk_servant, goety:vex_servant]
+	cursechanterExcludedEntities = ["minecraft:vex", "goety:neollager", "goety:prisoner", "goety:irk_servant", "goety:vex_servant"]
+	#Mob Enchant Fast Attack: action speed multiplier gained per level (default: 0.1, level 10 = 2.0x)
+	#Range: 0.05 ~ 0.5
+	fastAttackSpeedPerLevel = 0.1
+	#Whether Obsidian Monolith should glow (default: true)
+	obsidianMonolithGlow = true
+	#Enable Armor Enhancement: Illagers with the Armor Enhancement cannot equip armor, and equipped armor is dropped (default: true)
+	enableArmorEnhancement = true
+	#Whether Illager servants converted with the Ring of the Forge gain Armor Enhancement (default: true)
+	ringOfForgeConversionEnhancement = true
+	#Enderman Servant blacklisted blocks that cannot be picked up. Default: Minecraft's unbreakable blocks, chests, barrels, and shulker boxes
+	endermanServantBlacklist = ["minecraft:bedrock", "minecraft:command_block", "minecraft:chain_command_block", "minecraft:repeating_command_block", "minecraft:barrier", "minecraft:structure_block", "minecraft:structure_void", "minecraft:crafting_table"]
+	#Allow Crone Servant to throw Gas Brew (default: false)
+	croneServantAllowGasBrew = false
+	#Allow the multi shot for projectile. Use the full name (eg: minecraft:arrow)
+	allowMultiShotProjectiles = ["minecraft:arrow", "minecraft:tipped_arrow", "minecraft:spectral_arrow", "minecraft:snowball", "minecraft:firework_rocket", "minecraft:fireball", "minecraft:llama_spit", "minecraft:small_fireball", "minecraft:shulker_bullet", "minecraft:dragon_fireball", "goety:fireball", "goety:lavaball", "goety:hell_bolt", "goety:hell_chant", "goety:sword", "goety:hell_blast", "goety:ice_spike", "goety:ice_spear", "goety:ice_storm", "goety:ghost_arrow", "goety:death_arrow", "goety:harpoon", "goety:poison_quill", "goety:bone_shard", "goety:scythe", "goety:dragon_fireball", "goety:haunted_skull_shot", "goety:wither_skull", "goety:soul_bullet", "goety:soul_bolt", "goety:poison_bolt", "goety:steam_missile", "goety:wither_bolt", "goety:necro_bolt", "goety:magic_bolt", "goety:void_shock_bomb", "goety:ill_bomb", "goety:electro_orb", "goety:surging_orb", "goety:bouncy_bubble", "goety:scatter_bomb", "goety:snap_fungus", "goety:blast_fungus", "goety:berserk_fungus", "goety:magma_bomb", "goety:blossom_ball", "goety:web_shot", "goety:snareling_shot", "goety:ender_goo", "goety:tidal_surge", "goety:razor_wind", "goety:void_slash", "goetyawaken:silverfish_egg", "goetyawaken:endermite_egg", "goetyawaken:ghost_fire_bolt", "goetyawaken:mushroom_missile", "goetyawaken:mushroom_scatter_bomb", "goetyawaken:frost_scythe_slash", "goetyawaken:explosive_arrow", "goetyawaken:mod_sword_projectile", "goetyawaken:giant_ghast_fireball", "goetyawaken:tracking_fireball", "goetyawaken:giant_hell_blast", "goetyawaken:flying_axe", "goetyawaken:new_scatter_bomb", "goetyawaken:nameless_bolt", "goetyawaken:corrupted_soul_bolt", "goetyawaken:cursechanter_page"]
+	#Allow Envioker and Envioker Servant to fire flying swords (default: false)
+	allowEnviokerSword = false
+	#Whether Wight Servant should play ambient sound (default: true)
+	wightServantAmbientSound = true
+	#Show your own mob enchantments while holding a wand in the main hand. Default: true
+	showSelfMobEnchantHud = true
+
+	["Misc Settings"."Apostle Settings"]
+		#Enable the Firestream Arrow Rain for Apostles and Apostle Servants, usable only in the Nether (default: false)
+		apostleFirestreamArrowRain = false
+		#Callback Apostle feature - enables pre-nerf apostle abilities (default: true)
+		callbackApostle = true
+		#Enable Apostle Servant Armor Renderer(default: true)
+		enableApostleServantArmorRenderer = true
+		#Enable thunder storm weather when Apostle Servant enters second phase (default: true)
+		apostleSecondPhaseThunderStorm = true
+		#Enable the Rift Eye seismic wave for second-phase Apostles and Apostle Servants (default: false)
+		apostleRiftEyeWave = false
+		#Allow Apostles to summon armored Zombie Piglin Brutes (default: false)
+		apostleSummonArmoredZombiePiglin = false
+
+		["Misc Settings"."Apostle Settings"."Upgrade Conditions"]
+			#Apostle title 3 (the Dark): damage dealt to Wither required (default: 900)
+			#Range: > 1
+			apostleUpgradeWitherDamage = 900
+			#Apostle title 2 (the Defiler): poisoned entity kills required (default: 100)
+			#Range: > 1
+			apostleUpgradeBlightKills = 100
+			#Apostle title 4 (the Great Shadow): Warden kills required (default: 2)
+			#Range: > 1
+			apostleUpgradeWardenKills = 2
+			#Apostle title 9 (the Terrible): ticks spent with Swiftness II+ required (default: 120000)
+			#Range: > 1
+			apostleUpgradeSwiftTicks = 120000
+			#Apostle title 8 (the Cruel): frozen damage required, multiplied by servant max health (default: 10.0)
+			#Range: 1.0 ~ 1.0E9
+			apostleUpgradeFrozenDamageMultiplier = 10.0
+			#Apostle title 5 (the Witch King): harmful effects count required (default: 20)
+			#Range: > 1
+			apostleUpgradeNegativeEffects = 20
+			#Apostle title 3 (the Dark): Wither kills required (default: 3)
+			#Range: > 1
+			apostleUpgradeWitherKills = 3
+			#Apostle title 4 (the Great Shadow): damage dealt to Warden required (default: 1000)
+			#Range: > 1
+			apostleUpgradeWardenDamage = 1000
+			#Apostle title 11 (the Atrocious): villager kills required (default: 666)
+			#Range: > 1
+			apostleUpgradeVillagerKills = 666
+			#Apostle title 6 (the Pyre Lord): Blaze kills required (default: 100)
+			#Range: > 1
+			apostleUpgradeBlazeKills = 100
+			#Apostle title 0 (the Risen): heal amount required, multiplied by servant max health (default: 1000.0)
+			#Range: 1.0 ~ 1.0E9
+			apostleUpgradeHealMultiplier = 1000.0
+			#Apostle title 1 (the Abhorrent): damage dealt required, multiplied by servant max health (default: 1000.0)
+			#Range: 1.0 ~ 1.0E9
+			apostleUpgradeDamageMultiplier = 1000.0
+			#Apostle title 10 (the Glorious): follower count required (default: 64)
+			#Range: > 1
+			apostleUpgradeFollowerCount = 64
+			#Apostle title 7 (the Profane): emeralds earned through trading required (default: 4096)
+			#Range: > 1
+			apostleUpgradeTradingEmeralds = 4096
+			#Apostle title 5 (the Witch King): beneficial effects count required (default: 30)
+			#Range: > 1
+			apostleUpgradePositiveEffects = 30
+
+	["Misc Settings"."Imitator Servant"]
+		#Entities added to the morph target list of the selected mode, including CUSTOM. Only servant creatures (Summoned) are valid
+		#Use entity registry names such as:
+		#"goety:blackguard_servant"
+		imitatorServantAdditionalEntities = []
+		#Base entity list used when imitatorServantMorphMode is CUSTOM. Only servant creatures (Summoned) are valid
+		#Use entity registry names such as:
+		#"goety:zombie_servant"
+		imitatorServantCustomEntities = []
+		#Entities removed from the final morph target list. Exclusion has priority over the mode and imitatorServantAdditionalEntities
+		#Use entity registry names such as:
+		#"minecraft:zombie"
+		imitatorServantExcludedEntities = ["goety:neollager", "goety:signaler_servant", "goetyawaken:preacher_servant", "goetyawaken:bound_preacher", "goetyawaken:bound_cursechanter", "goetyawaken:cursechanter_servant", "goetyawaken:angler_servant", "goetyawaken:vizier_clone_servant", "goetyawaken:masquerader_servant_clone", "goetyawaken:rose_spirit_servant"]
+		#Imitator Servant limit per player (default: 1)
+		#Range: > 1
+		imitatorServantLimit = 1
+		#Base morph mode of the Imitator Servant (default: ILLAGER)
+		#ILLAGER: only AbstractIllagerServant, RAIDER: only RaiderServant, BOSS: only the goety:powerful_servants tag
+		#ILLAGER_BOSS / RAIDER_BOSS: combinations of the above
+		#ALL: every servant (Summoned), CUSTOM: only the imitatorServantCustomEntities list
+		#Allowed Values: ILLAGER, RAIDER, BOSS, ILLAGER_BOSS, RAIDER_BOSS, ALL, CUSTOM
+		imitatorServantMorphMode = "ILLAGER"
+
+["Item Settings"]
+	#Death Cap Mushroom BERSERK effect duration in ticks (default: 600 - 30 seconds)
+	#Range: > 0
+	deathCapMushroomEffectDuration = 600
+	#Enable Grimoire random affix system (crafting/ritual affix rolls and Curios attribute modifiers). Default: true
+	grimoireAffixEnabled = true
+	#Death Cap Mushroom BERSERK effect level/amplifier (default: 4, which is level IV)
+	#Range: 1 ~ 255
+	deathCapMushroomEffectLevel = 4
+	#The maximum number of times a single item can be enhanced on an anvil using a Gilded Ingot to improve its enchantments. (default: 1)
+	#Range: > 1
+	gildedIngotMaxEnhancements = 1
+	#Swelling Pendant max slime value (default: 10000)
+	#Range: > 1
+	swellingPendantMaxSlimeValue = 10000
+	#Allow negative attribute values on Grimoire affixes. Default: true
+	grimoireAffixAllowNegative = true
+	#Death Cap Mushroom cooldown in ticks after eating (default: 1200 - 60 seconds)
+	#Range: > 0
+	deathCapMushroomCooldown = 1200
+	#Death Cap Mushroom maximum usages before being consumed (default: 10)
+	#Range: > 1
+	deathCapMushroomMaxUsages = 10
+	#How many ticks one soul burns in the Soul Blast Furnace (default: 40)
+	#Range: > 1
+	soulBlastFurnaceBurnTime = 40
+
+["Focus Spells"]
+
+	["Focus Spells"."Shulker Missile Focus"]
+		#Shulker Missile Focus soul cost (default: 16)
+		#Range: > 0
+		shulkerMissileFocusSoulCost = 16
+		#Shulker Missile Spell base damage (default: 4.0)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		shulkerMissileBaseDamage = 4.0
+		#Shulker Missile Spell damage increase per potency level (default: 1.0)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		shulkerMissilePotencyDamage = 1.0
+		#Shulker Missile Focus maximum potion effect duration from crafting in ticks (default: 200 = 10 seconds)
+		#Range: > 20
+		shulkerMissileMaxPotionDuration = 200
+		#Shulker Missile Focus cooldown in ticks (default: 100)
+		#Range: > 0
+		shulkerMissileFocusCooldown = 100
+		#Shulker Missile Focus maximum potion effect amplifier from crafting (default: 1, which is level II)
+		#Range: 0 ~ 255
+		shulkerMissileMaxPotionAmplifier = 1
+		#Shulker Missile Focus cast duration in ticks (default: 0)
+		#Range: > 0
+		shulkerMissileFocusCastDuration = 0
+
+	["Focus Spells"."Chip Focus"]
+		#Chip Focus cooldown in ticks (default: 80 - 4 seconds)
+		#Range: > 0
+		chipFocusCooldown = 80
+		#Chip Focus cast duration in ticks (default: 0)
+		#Range: > 0
+		chipFocusCastDuration = 0
+		#Chip Focus soul cost (default: 16)
+		#Range: > 0
+		chipFocusSoulCost = 16
+		#Chip Focus Spell damage increase per potency level (default: 1.0)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		chipFocusPotencyDamage = 1.0
+
+	["Focus Spells"."Champion Focus"]
+		#Champion Focus soul cost (default: 1000)
+		#Range: > 0
+		championFocusSoulCost = 1000
+		#Champion Focus cast duration in ticks (default: 180 - 9 seconds)
+		#Range: > 0
+		championFocusCastDuration = 180
+		#Champion Focus cooldown in ticks (default: 1200 - 60 seconds)
+		#Range: > 0
+		championFocusCooldown = 1200
+
+	["Focus Spells"."Scatter Bomb Focus"]
+		#Scatter Bomb damage increase per potency level (default: 1.0)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		scatterBombPotencyDamage = 1.0
+		#Mushroom Scatter Bomb acid pool damage increase per potency level (default: 0.5)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		mushroomScatterBombAcidPotencyDamage = 0.5
+		#Scatter Bomb Focus cooldown in ticks (default: 60)
+		#Range: > 0
+		scatterBombFocusCooldown = 60
+		#Scatter Bomb explosion radius increase per potency level (default: 0.5)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		scatterBombPotencyRadius = 0.5
+		#Mushroom Scatter Bomb acid pool base damage (default: 3.0)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		mushroomScatterBombAcidBaseDamage = 3.0
+		#Scatter Bomb base explosion damage (default: 12.5)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		scatterBombBaseDamage = 12.5
+		#Scatter Bomb Focus cast duration in ticks (default: 40)
+		#Range: > 0
+		scatterBombFocusCastDuration = 40
+		#Scatter Bomb Focus soul cost (default: 16)
+		#Range: > 0
+		scatterBombFocusSoulCost = 16
+
+	["Focus Spells"."Deepdark Vermin Focus"]
+		#Deepdark Vermin Focus cooldown in ticks (default: 160 - 8 seconds)
+		#Range: > 0
+		deepdarkVerminFocusCooldown = 160
+		#Deepdark Vermin Focus cast duration in ticks (default: 40 - 2 seconds)
+		#Range: > 0
+		deepdarkVerminFocusCastDuration = 40
+		#Deepdark Vermin Focus soul cost (default: 16)
+		#Range: > 0
+		deepdarkVerminFocusSoulCost = 16
+
+	["Focus Spells"."Ghost Havoc Focus"]
+		#Ghost Havoc Focus spell cooldown in ticks (default: 200 - 10 seconds)
+		#Range: > 0
+		ghostHavocFocusSpellCooldown = 200
+		#Ghost Havoc Focus soul cost (default: 24)
+		#Range: > 0
+		ghostHavocFocusSoulCost = 24
+		#Ghost Havoc Focus cast up duration in ticks (default: 40)
+		#Range: > 0
+		ghostHavocFocusCastUp = 40
+
+	["Focus Spells"."Fate Dice Focus"]
+		#Fate Dice Focus Spell damage increase per potency level (default: 1.0)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		fateDiceFocusPotencyDamage = 1.0
+		#Fate Dice Focus cast duration in ticks (default: 30 - 1.5 seconds)
+		#Range: > 0
+		fateDiceFocusCastDuration = 30
+		#Fate Dice Focus soul cost (default: 12)
+		#Range: > 0
+		fateDiceFocusSoulCost = 12
+		#Fate Dice Focus cooldown in ticks (default: 80 - 4 seconds)
+		#Range: > 0
+		fateDiceFocusCooldown = 80
+
+	["Focus Spells"."Ghost Missile Focus"]
+		#Ghost Missile Spell base damage (default: 10.0)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		ghostMissileBaseDamage = 10.0
+		#Ghost Missile Focus cooldown in ticks (default: 40 - 2 seconds)
+		#Range: > 0
+		ghostMissileFocusCooldown = 40
+		#Ghost Missile Focus soul cost (default: 16)
+		#Range: > 0
+		ghostMissileFocusSoulCost = 16
+		#Ghost Missile Focus cast duration in ticks (default: 0)
+		#Range: > 0
+		ghostMissileFocusCastDuration = 0
+		#Ghost Missile Spell damage increase per potency level (default: 1.0)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		ghostMissilePotencyDamage = 1.0
+
+	["Focus Spells"."Agony Focus"]
+		#Agony Focus Spell damage increase per potency level (default: 2.0)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		agonyFocusPotencyDamage = 2.0
+		#Agony Focus cast up duration in ticks (default: 0)
+		#Range: > 0
+		agonyFocusCastUp = 0
+		#Agony Focus soul cost (default: 8)
+		#Range: > 0
+		agonyFocusSoulCost = 8
+		#Agony Focus cooldown in ticks (default: 200)
+		#Range: > 0
+		agonyFocusCooldown = 200
+
+	["Focus Spells"."Transfiguration Focus"]
+		#Transfiguration Focus cast duration in ticks (default: 0)
+		#Range: > 0
+		transfigurationFocusCastDuration = 0
+		#Transfiguration Focus cooldown in ticks (default: 20)
+		#Range: > 0
+		transfigurationFocusCooldown = 20
+		#Transfiguration Focus teleport and marking base distance in blocks (default: 24)
+		#Range: > 1
+		transfigurationFocusBaseRange = 24
+		#Transfiguration Focus soul cost (default: 10)
+		#Range: > 0
+		transfigurationFocusSoulCost = 10
+
+	["Focus Spells"."Seismic Focus"]
+		#Seismic Focus cast duration in ticks (default: 60 - 3 seconds)
+		#Range: > 0
+		seismicFocusCastDuration = 60
+		#Damage the Seismic Monolith takes each time it releases a seismic wave (default: 10.0)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		seismicMonolithSelfDamage = 10.0
+		#Seismic Focus soul cost (default: 64)
+		#Range: > 0
+		seismicFocusSoulCost = 64
+		#Seismic Monolith armor (default: 4.0)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		seismicMonolithArmor = 4.0
+		#Seismic Wave extra damage per Potency level (default: 2.0)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		seismicPotencyDamage = 2.0
+		#Seismic Monolith max health (default: 70.0)
+		#Range: 1.0 ~ 1.7976931348623157E308
+		seismicMonolithHealth = 70.0
+		#Seismic Wave base max radius in blocks (default: 16.0)
+		#Range: 1.0 ~ 64.0
+		seismicWaveBaseRadius = 16.0
+		#Seismic Focus cooldown in ticks (default: 400 - 20 seconds)
+		#Range: > 0
+		seismicFocusCooldown = 400
+		#Seismic Wave base damage (default: 18.0)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		seismicWaveBaseDamage = 18.0
+
+	["Focus Spells"."Rift Eye Focus"]
+		#Rift Eye Focus sulfur beam damage per Potency level (default: 1.0)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		riftEyeFocusBeamPotencyDamage = 1.0
+		#Rift Eye Focus soul cost per second of firing (default: 256)
+		#Range: > 0
+		riftEyeFocusSoulCost = 256
+		#Rift Eye Focus sulfur beam base damage (default: 6.0)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		riftEyeFocusBeamBaseDamage = 6.0
+		#Rift Eye Focus cooldown in ticks (default: 600 - 30 seconds)
+		#Range: > 0
+		riftEyeFocusCooldown = 600
+		#Rift Eye Focus chant duration in ticks (default: 80 - 4 seconds)
+		#Range: > 0
+		riftEyeFocusCastDuration = 80
+
+	["Focus Spells"."Death Ray Spell"]
+		#Death Ray Spell cooldown in ticks (default: 20)
+		#Range: > 0
+		deathRaySpellCooldown = 20
+		#Death Ray Spell damage increase per potency level (default: 3.0)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		deathRayPotencyDamage = 3.0
+		#Death Ray Spell cast duration in ticks (default: 0)
+		#Range: > 0
+		deathRaySpellCastDuration = 0
+		#Death Ray Spell soul cost (default: 16)
+		#Range: > 0
+		deathRaySpellSoulCost = 16
+		#Death Ray Spell base damage (default: 5.0)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		deathRayBaseDamage = 5.0
+
+	["Focus Spells"."Blood Rain Focus"]
+		#Blood Rain Spell base damage (default: 1.0)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		bloodRainBaseDamage = 1.0
+		#Blood Rain Focus cast duration in ticks (default: 80 - 4 seconds)
+		#Range: > 0
+		bloodRainFocusCastDuration = 80
+		#Blood Rain Focus cooldown in ticks (default: 240 - 12 seconds)
+		#Range: > 0
+		bloodRainFocusCooldown = 240
+		#Blood Rain Focus soul cost (default: 16)
+		#Range: > 0
+		bloodRainFocusSoulCost = 16
+		#Blood Rain Spell damage increase per potency level (default: 1.0)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		bloodRainPotencyDamage = 1.0
+
+	["Focus Spells"."Shattered Focus"]
+		#Shattered Focus cast duration in ticks (default: 60 - 3 seconds)
+		#Range: > 0
+		shatteredFocusCastDuration = 60
+		#Shattered Focus cooldown in ticks (default: 160 - 8 seconds)
+		#Range: > 0
+		shatteredFocusCooldown = 160
+		#Shattered Focus soul cost (default: 16)
+		#Range: > 0
+		shatteredFocusSoulCost = 16
+
+	["Focus Spells"."Infestation Focus"]
+		#Infestation Focus cast duration in ticks (default: 0)
+		#Range: > 0
+		infestationFocusCastDuration = 0
+		#Infestation Focus cooldown in ticks (default: 60)
+		#Range: > 0
+		infestationFocusCooldown = 60
+		#Infestation Spell damage increase per potency level (default: 1.0)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		infestationPotencyDamage = 1.0
+		#Infestation Spell base damage per egg (default: 6.0)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		infestationBaseDamage = 6.0
+		#Infestation Focus soul cost (default: 8)
+		#Range: > 0
+		infestationFocusSoulCost = 8
+
+	["Focus Spells"."Mooshroom Focus"]
+		#Mooshroom Focus soul cost (default: 32)
+		#Range: > 0
+		mooshroomFocusSoulCost = 32
+		#Mooshroom Focus cooldown in ticks (default: 160 - 8 seconds)
+		#Range: > 0
+		mooshroomFocusCooldown = 160
+		#Mooshroom Focus cast duration in ticks (default: 60 - 3 seconds)
+		#Range: > 0
+		mooshroomFocusCastDuration = 60
+
+	["Focus Spells"."Heaven Rift Focus"]
+		#Heaven Rift Focus soul cost (default: 64)
+		#Range: > 0
+		heavenRiftFocusSoulCost = 64
+		#Heaven Rift Focus cast duration in ticks (default: 0)
+		#Range: > 0
+		heavenRiftFocusCastDuration = 0
+		#Heaven Rift Focus cooldown in ticks (default: 1200)
+		#Range: > 0
+		heavenRiftFocusCooldown = 1200
+		#Heaven Rift Spell base damage per Pure Light (default: 9.0)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		heavenRiftBaseDamage = 9.0
+		#Heaven Rift Spell damage increase per potency level (default: 2.0)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		heavenRiftPotencyDamage = 2.0
+
+	["Focus Spells"."Great Meteor Focus"]
+		#Great Meteor Focus cast duration in ticks (default: 80)
+		#Range: > 0
+		greatMeteorFocusCastDuration = 80
+		#Great Meteor Spell damage increase per potency level (default: 3.0)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		greatMeteorPotencyDamage = 3.0
+		#Great Meteor Focus soul cost (default: 48)
+		#Range: > 0
+		greatMeteorFocusSoulCost = 48
+		#Great Meteor Focus cooldown in ticks (default: 160)
+		#Range: > 0
+		greatMeteorFocusCooldown = 160
+
+	["Focus Spells"."Fang Trap Focus"]
+		#Fang Trap Focus cooldown in ticks (default: 100 - 5 seconds)
+		#Range: > 0
+		fangTrapFocusCooldown = 100
+		#Fang Trap Focus soul cost (default: 16)
+		#Range: > 0
+		fangTrapFocusSoulCost = 16
+		#Fang Trap Focus cast duration in ticks (default: 20 - 1 second)
+		#Range: > 0
+		fangTrapFocusCastDuration = 20
+
+	["Focus Spells"."Chasing Flame Focus"]
+		#Chasing Flame Focus cooldown in ticks (default: 60)
+		#Range: > 0
+		chasingFlameFocusCooldown = 60
+		#Chasing Flame Focus cast duration in ticks (default: 20)
+		#Range: > 0
+		chasingFlameFocusCastDuration = 20
+		#Chasing Flame Focus soul cost (default: 24)
+		#Range: > 0
+		chasingFlameFocusSoulCost = 24
+		#Chasing Flame Spell damage increase per potency level (default: 2.0)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		chasingFlamePotencyDamage = 2.0
+
+	["Focus Spells"."Rock Launch Focus"]
+		#Rock Launch Focus spell cooldown in ticks (default: 300 - 15 seconds)
+		#Range: > 0
+		rockLaunchFocusSpellCooldown = 300
+		#Rock Launch Focus soul cost (default: 12)
+		#Range: > 0
+		rockLaunchFocusSoulCost = 12
+		#Rock Launch Focus cast up duration in ticks (default: 20)
+		#Range: > 0
+		rockLaunchFocusCastUp = 20
+
+	["Focus Spells"."Fairy Focus"]
+		#Fairy Focus soul cost (default: 4)
+		#Range: > 0
+		fairyFocusSoulCost = 4
+		#Fairy Focus cooldown in ticks (default: 80 - 4 seconds)
+		#Range: > 0
+		fairyFocusCooldown = 80
+		#Fairy Focus cast duration in ticks (default: 40 - 2 seconds)
+		#Range: > 0
+		fairyFocusCastDuration = 40
+
+	["Focus Spells"."Killer Spell"]
+		#Killer Spell cooldown in ticks (default: 160)
+		#Range: > 0
+		killerSpellCooldown = 160
+		#Killer Spell cast duration in ticks (default: 40)
+		#Range: > 0
+		killerSpellCastDuration = 40
+		#Killer Spell soul cost (default: 8)
+		#Range: > 0
+		killerSpellSoulCost = 8
+		#Killer Spell summon down duration in ticks (default: 160)
+		#Range: > 0
+		killerSpellSummonDownDuration = 160
+
+	["Focus Spells"."Firestream Arrow Rain Focus"]
+		#Firestream Arrow Rain Focus cooldown in ticks (default: 160 - 8 seconds)
+		#Range: > 0
+		firestreamArrowRainFocusCooldown = 160
+		#Firestream Arrow Rain arrow base damage (default: 4.0)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		firestreamArrowRainBaseDamage = 4.0
+		#Firestream Arrow Rain arrow damage per Potency level (default: 1.0)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		firestreamArrowRainPotencyDamage = 1.0
+		#Firestream Arrow Rain Focus soul cost (default: 32)
+		#Range: > 0
+		firestreamArrowRainFocusSoulCost = 32
+		#Firestream Arrow Rain Focus cast duration in ticks (default: 40 - 2 seconds)
+		#Range: > 0
+		firestreamArrowRainFocusCastDuration = 40
+
+	["Focus Spells"."Oblivion Gale Focus"]
+		#Oblivion Gale Focus cooldown in ticks (default: 600 - 30 seconds)
+		#Range: > 0
+		oblivionGaleFocusCooldown = 600
+		#Oblivion Gale Focus cast duration in ticks (default: 60 - 3 seconds)
+		#Range: > 0
+		oblivionGaleFocusCastDuration = 60
+		#Oblivion Gale extra damage per Potency level (default: 0.5)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		oblivionGalePotencyDamage = 0.5
+		#Oblivion Gale damage (default: 2.0)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		oblivionGaleDamage = 2.0
+		#Oblivion Gale Focus soul cost (default: 64)
+		#Range: > 0
+		oblivionGaleFocusSoulCost = 64
+
+	["Focus Spells"."Serpentine Fang Focus"]
+		#Serpentine Fang Focus cooldown in ticks (default: 160 - 8 seconds)
+		#Range: > 0
+		serpentineFangFocusCooldown = 160
+		#Serpentine Fang Focus cast duration in ticks (default: 40 - 2 seconds)
+		#Range: > 0
+		serpentineFangFocusCastDuration = 40
+		#Serpentine Fang Focus soul cost (default: 32)
+		#Range: > 0
+		serpentineFangFocusSoulCost = 32
+
+	["Focus Spells"."Desert Plagues Focus"]
+		#Desert Plagues Focus soul cost (default: 64)
+		#Range: > 0
+		desertPlaguesFocusSoulCost = 64
+		#Desert Plagues Focus cast duration in ticks (default: 200 - 10 seconds)
+		#Range: > 0
+		desertPlaguesFocusCastDuration = 200
+		#Desert Plagues Focus cooldown in ticks (default: 1200 - 60 seconds)
+		#Range: > 0
+		desertPlaguesFocusCooldown = 1200
+		#Desert Plagues Spell damage increase per potency level (default: 1.0)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		desertPlaguesPotencyDamage = 1.0
+
+	["Focus Spells"."Mushroom Missile Focus"]
+		#Mushroom Missile Spell base explosion damage (default: 12.0)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		mushroomMissileBaseDamage = 12.0
+		#Mushroom Missile Focus cast duration in ticks (default: 20)
+		#Range: > 0
+		mushroomMissileFocusCastDuration = 20
+		#Mushroom Missile Spell damage increase per potency level (default: 1.0)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		mushroomMissilePotencyDamage = 1.0
+		#Mushroom Missile Focus maximum potion effect amplifier from crafting (default: 1, which is level II)
+		#Range: 0 ~ 255
+		mushroomMissileMaxPotionAmplifier = 1
+		#Mushroom Missile Focus maximum potion effect duration from crafting in ticks (default: 200 = 10 seconds)
+		#Range: > 20
+		mushroomMissileMaxPotionDuration = 200
+		#Mushroom Missile area effect cloud duration in ticks, affected by lasting enchantment (default: 100 = 5 seconds)
+		#Range: > 20
+		mushroomMissileAreaCloudDuration = 100
+		#Mushroom Missile Focus soul cost (default: 32)
+		#Range: > 0
+		mushroomMissileFocusSoulCost = 32
+		#Mushroom Missile Focus cooldown in ticks (default: 100)
+		#Range: > 0
+		mushroomMissileFocusCooldown = 100
+
+	["Focus Spells"."Fireball Feast Focus"]
+		#Fireball Feast Focus soul cost (default: 64)
+		#Range: > 0
+		fireballFeastFocusSoulCost = 64
+		#Fireball Feast Focus cooldown in ticks (default: 400)
+		#Range: > 0
+		fireballFeastFocusCooldown = 400
+		#Fireball Feast Focus cast up duration in ticks (default: 80)
+		#Range: > 0
+		fireballFeastFocusCastDuration = 80
+
+	["Focus Spells"."Stare Focus"]
+		#Stare Focus soul cost (default: 48)
+		#Range: > 0
+		stareFocusSoulCost = 48
+		#Stare Focus cast duration in ticks (default: 80)
+		#Range: > 0
+		stareFocusCastDuration = 80
+		#Stare Focus cooldown in ticks (default: 600)
+		#Range: > 0
+		stareFocusCooldown = 600
+
+	["Focus Spells"."Burning Shield Focus"]
+		#Burning Shield Focus soul cost (default: 64)
+		#Range: > 0
+		burningShieldFocusSoulCost = 64
+		#Burning Shield Focus cooldown in ticks (default: 600)
+		#Range: > 0
+		burningShieldFocusCooldown = 600
+		#Burning Shield Focus cast duration in ticks (default: 80)
+		#Range: > 0
+		burningShieldFocusCastDuration = 80
+
+	["Focus Spells"."Torment Focus"]
+		#Torment Focus cast duration in ticks (default: 80)
+		#Range: > 0
+		tormentFocusCastDuration = 80
+		#Torment Focus cooldown in ticks (default: 600)
+		#Range: > 0
+		tormentFocusCooldown = 600
+		#Torment Focus soul cost (default: 48)
+		#Range: > 0
+		tormentFocusSoulCost = 48
+
+	["Focus Spells"."Access Focus"]
+		#Access Focus soul cost (default: 10)
+		#Range: > 0
+		accessFocusSoulCost = 10
+		#Access Focus cast duration in ticks (default: 0)
+		#Range: > 0
+		accessFocusCastDuration = 0
+		#Access Focus cooldown in ticks (default: 0)
+		#Range: > 0
+		accessFocusCooldown = 0
+
+	["Focus Spells"."Creeper Focus"]
+		#Creeper Focus cooldown in ticks (default: 100)
+		#Range: > 0
+		creeperFocusCooldown = 100
+		#Creeper Focus soul cost (default: 32)
+		#Range: > 0
+		creeperFocusSoulCost = 32
+		#Creeper Focus cast duration in ticks (default: 40)
+		#Range: > 0
+		creeperFocusCastDuration = 40
+
+	["Focus Spells"."Swamp Mine Focus"]
+		#Swamp Mine Focus cast duration in ticks (default: 80 - 4 seconds)
+		#Range: > 0
+		swampMineFocusCastDuration = 80
+		#Swamp Mine Spell extra explosion power per potency level (default: 0.1)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		swampMinePotencyExplosion = 0.1
+		#Swamp Mine Focus cooldown in ticks (default: 160 - 8 seconds)
+		#Range: > 0
+		swampMineFocusCooldown = 160
+		#Swamp Mine Focus soul cost (default: 16)
+		#Range: > 0
+		swampMineFocusSoulCost = 16
+
+	["Focus Spells"."Chip Rain Focus"]
+		#Chip Rain Focus soul cost (default: 32)
+		#Range: > 0
+		chipRainFocusSoulCost = 32
+		#Chip Rain Focus charge time in ticks (default: 40 - 2 seconds)
+		#Range: > 0
+		chipRainFocusCastUp = 40
+		#Chip Rain Focus cooldown in ticks (default: 300 - 15 seconds)
+		#Range: > 0
+		chipRainFocusCooldown = 300
+		#Chip Rain Focus Spell damage increase per potency level (default: 1.0)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		chipRainFocusPotencyDamage = 1.0
+
+	["Focus Spells"."Wololo Focus"]
+		#Wololo Focus cast duration in ticks (default: 60)
+		#Range: > 0
+		wololoFocusCastDuration = 60
+		#Wololo Focus cooldown in ticks (default: 140)
+		#Range: > 0
+		wololoFocusCooldown = 140
+		#Wololo Focus soul cost (default: 1)
+		#Range: > 0
+		wololoFocusSoulCost = 1
+
+	["Focus Spells"."Biting Vortex Focus"]
+		#Biting Vortex Focus soul cost (default: 64)
+		#Range: > 0
+		bitingVortexFocusSoulCost = 64
+		#Biting Vortex Focus cooldown in ticks (default: 400 - 20 seconds)
+		#Range: > 0
+		bitingVortexFocusCooldown = 400
+		#Biting Vortex Focus cast duration in ticks (default: 60 - 3 seconds)
+		#Range: > 0
+		bitingVortexFocusCastDuration = 60
+
+["Boss & Music Settings"]
+	#Enable Enchantment Spell (variant) for Nameless One. Default: true
+	enableNamelessOneEnchantment = true
+	#Enable boss music for Wraith Necromancer. Default: true
+	wraithNecromancerBossMusic = true
+	#Enable Thunderstorm Spell for Nameless One. Default: true
+	enableNamelessOneThunderstorm = true
+	#Use the custom boss bar texture for Parched Necromancer. Client-side. Default: true
+	parchedNecromancerBossBar = true
+	#Enable boss music for Parched Necromancer. Default: true
+	parchedNecromancerBossMusic = true
+	#Use the custom boss bar texture for Tower Witch. Client-side. Default: true
+	towerWitchBossBar = true
+	#Enable legacy music for Wraith Necromancer. Default: false
+	wraithNecromancerLegacyMusic = false
+	#Enable boss music for Prophet. Default: true
+	prophetBossMusic = true
+	#Use the custom boss bar texture for Prophet. Client-side. Default: true
+	prophetBossBar = true
+	#Enable new texture for Hostile Nameless One. Default: false
+	enableHostileNamelessOneNewTexture = false
+	#Enable boss music for Rampart Captain. Default: true
+	rampartCaptainBossMusic = true
+	#Use the custom boss bar texture for Fang Master. Client-side. Default: true
+	fangMasterBossBar = true
+	#Use the custom boss bar texture for Arch Illusioner. Client-side. Default: true
+	archIllusionerBossBar = true
+	#Use the custom boss bar texture for Giant Ghast. Client-side. Default: true
+	giantGhastBossBar = true
+	#Enable Easy mode for Mooshroom Monstrosity (which is more like Minecraft Dungeons). Default: false
+	mushroomMonstrosityEasyMode = false
+	#Use the custom boss bar texture for Rampart Captain. Client-side. Default: true
+	rampartCaptainBossBar = true
+	#Enable boss music for Arch Illusioner. Default: true
+	archIllusionerBossMusic = true
+	#Use the custom boss bar texture for Wraith Necromancer. Client-side. Default: true
+	wraithNecromancerBossBar = true
+	#Enable Support and Buff Spells for Nameless One. Default: true
+	enableNamelessOneSupportSpells = true
+	#Enable Scarlet Vex summoning ability for Nameless One. Default: false
+	enableNamelessOneScarletVexSummon = false
+	#Use the custom boss bar texture for Ruby Sorcerer. Client-side. Default: true
+	rubySorcererBossBar = true
+	#Enable Avada Spell for Nameless One. Default: false
+	enableNamelessOneAvada = false
+	#Enable boss music for Fang Master. Default: true
+	fangMasterBossMusic = true
+	#Enable Death Fire creation for Nameless Bolt projectile. Default: false
+	enableNamelessBoltDeathFire = false
+	#Enable boss music for Tower Witch. Default: true
+	towerWitchBossMusic = true
+	#Enable Desert Plagues Spell for Nameless One. Default: false
+	enableNamelessOneDesertPlagues = false
+	#Allow Nameless One to fire multiple NamelessBolts at once (spread shot). Default: false
+	namelessOneMultiShot = false
+	#Enable Easy mode for Nameless One (which is more like Minecraft Dungeons). Default: false
+	namelessOneEasyMode = false
+	#Enable boss music for Ruby Sorcerer. Default: true
+	rubySorcererBossMusic = true
+	#Enable Heaven Rift Spell for Nameless One. Default: false
+	enableNamelessOneHeavenRift = false
+	#Enable new texture for Ally Nameless One. Default: true
+	enableNamelessOneNewTexture = true
+	#Enable boss music for Mooshroom Monstrosity. Default: true
+	mushroomMonstrosityBossMusic = true
+	#Enable boss music for Nameless One. Default: true
+	namelessOneBossMusic = true
+	#Enable boss music for Drowned Necromancer. Default: true
+	drownedNecromancerBossMusic = true
+
+[Enhancements]
+	#Enable Brood Mother Enhancement(default: true)
+	enableBroodMotherEnhancement = true
+	#Enable Wildfire Enhancement(default: true)
+	enableWildfireEnhancement = true
+	#Enable Watchling Enhancement(default: true)
+	enableWatchlingEnhancement = true
+	#Enable Leapleaf Enhancement(default: true)
+	enableLeapleafEnhancement = true
+	#Enable Squall Golem Enhancement(default: true)
+	enableSquallGolemEnhancement = true
+	#Enable Snareling Enhancement(default: true)
+	enableSnarelingEnhancement = true
+	#Enable Piker Enhancement(default: true)
+	enablePikerEnhancement = true
+	#Enable Blastling Enhancement(default: true)
+	enableBlastlingEnhancement = true
+
+["Weapon Stats"]
+	#Moonlight Cut base damage (default: 10.0)
+	#Range: 0.0 ~ 1.7976931348623157E308
+	moonlightCutDamage = 10.0
+	#Mace attack speed (default: 0.5)
+	#Range: 4.9E-324 ~ 1.7976931348623157E308
+	maceAttackSpeed = 0.5
+	#Moonlight Cut attack speed (default: 1.2)
+	#Range: 4.9E-324 ~ 1.7976931348623157E308
+	moonlightCutAttackSpeed = 1.2
+	#Glaive base damage (default: 8.0)
+	#Range: 0.0 ~ 1.7976931348623157E308
+	glaiveDamage = 8.0
+	#Truth Seeker attack speed (default: 0.8)
+	#Range: 4.9E-324 ~ 1.7976931348623157E308
+	truthSeekerAttackSpeed = 0.8
+	#Grave Bane attack speed (default: 1.2)
+	#Range: 4.9E-324 ~ 1.7976931348623157E308
+	graveBaneAttackSpeed = 1.2
+	#Sun Grace attack speed (default: 0.5)
+	#Range: 4.9E-324 ~ 1.7976931348623157E308
+	sunGraceAttackSpeed = 0.5
+	#Glaive attack speed (default: 1.2)
+	#Range: 4.9E-324 ~ 1.7976931348623157E308
+	glaiveAttackSpeed = 1.2
+	#Obsidian Claymore base damage (default: 13.0)
+	#Range: 0.0 ~ 1.7976931348623157E308
+	obsidianClaymoreDamage = 13.0
+	#MooShroom Mace attack speed (default: 0.5)
+	#Range: 4.9E-324 ~ 1.7976931348623157E308
+	mooShroomMaceAttackSpeed = 0.5
+	#Mace base damage (default: 9.0)
+	#Range: 0.0 ~ 1.7976931348623157E308
+	maceDamage = 9.0
+	#Claymore base damage (default: 10.0)
+	#Range: 0.0 ~ 1.7976931348623157E308
+	claymoreDamage = 10.0
+	#Starless Night attack speed (default: 0.6)
+	#Range: 4.9E-324 ~ 1.7976931348623157E308
+	starlessNightAttackSpeed = 0.6
+	#Frost Scythe base damage (default: 8.5)
+	#Range: 0.0 ~ 1.7976931348623157E308
+	frostScytheDamage = 8.5
+	#Truth Seeker base damage (default: 12.0)
+	#Range: 0.0 ~ 1.7976931348623157E308
+	truthSeekerDamage = 12.0
+	#Frost Scythe attack speed (default: 0.6)
+	#Range: 0.0 ~ 1.7976931348623157E308
+	frostScytheAttackSpeed = 0.6
+	#Starless Night base damage (default: 16.0)
+	#Range: 0.0 ~ 1.7976931348623157E308
+	starlessNightDamage = 16.0
+	#MooShroom Mace base damage (default: 15.0)
+	#Range: 0.0 ~ 1.7976931348623157E308
+	mooShroomMaceDamage = 15.0
+	#Sun Grace base damage (default: 11.0)
+	#Range: 0.0 ~ 1.7976931348623157E308
+	sunGraceDamage = 11.0
+	#Grave Bane base damage (default: 9.0)
+	#Range: 0.0 ~ 1.7976931348623157E308
+	graveBaneDamage = 9.0
+	#Claymore attack speed (default: 0.6)
+	#Range: 4.9E-324 ~ 1.7976931348623157E308
+	claymoreAttackSpeed = 0.6
+	#Obsidian Claymore attack speed (default: 0.6)
+	#Range: 4.9E-324 ~ 1.7976931348623157E308
+	obsidianClaymoreAttackSpeed = 0.6
+

@@ -1,0 +1,60 @@
+
+#Book of Dragons Common Settings
+[common]
+	#Accessibility: holding a direction in tap-driven QTEs auto-taps at a fixed
+	#cadence instead of requiring rapid key drumming
+	qteTapAssist = false
+
+#What dragons may do to the terrain. Each breath attack authors its own
+#sets_fire / breaks_blocks; these switches take precedence and can only forbid.
+[griefing]
+	#Dragon attacks and abilities may set fire to blocks. The mobGriefing game rule also applies
+	dragonsSetFire = false
+	#Dragon attacks may break blocks (explosive impacts). The mobGriefing game rule also applies
+	dragonsBreakBlocks = false
+
+#What a dragon's grip may take. Players are taken only where the server allows PvP.
+[grabbing]
+	#A dragon's grip may take players
+	grabPlayers = true
+
+#How dragons treat creatures from other mods.
+[creatures]
+	#How strongly a dragon fears, dislikes or attacks a creature from another mod that is not
+	#after it, as a share of its normal reaction. 1.0 is the full reaction, 0.0 ignores it
+	#Range: 0.0 ~ 1.0
+	strangerReaction = 1.0
+
+#What happens to a tamed dragon at low health.
+[tames]
+	#A tamed dragon collapses at low health and recovers, instead of dying.
+	#Off: a tamed dragon dies like any other creature
+	incapacitation = true
+
+#How Living Wind's wind works on dragons, when Living Wind is installed.
+[livingwind]
+	#Living Wind's wind works on dragons and their attacks
+	enabled = true
+	#The Living Wind strength from which the wind works whole; a weaker wind works less
+	#Range: 0.1 ~ 3.0
+	fullStrength = 1.15
+	#How much less a weaker wind works: 0 works every wind whole, 2 works a wind at half
+	#the full strength at a quarter, higher softens light winds more
+	#Range: 0.0 ~ 5.0
+	taper = 2.0
+	#How much the wind carries a flying dragon off its line
+	#Range: 0.0 ~ 2.0
+	flight = 1.0
+	#How much the wind turns and leans a flying dragon as it is drawn
+	#Range: 0.0 ~ 2.0
+	lean = 1.0
+	#How much the wind sways tails and necks hanging loose
+	#Range: 0.0 ~ 2.0
+	sway = 1.0
+	#How much the wind flutters open wing membranes
+	#Range: 0.0 ~ 2.0
+	membranes = 1.0
+	#How much the wind carries breath, its particles and shots
+	#Range: 0.0 ~ 2.0
+	attacks = 1.0
+

@@ -1,0 +1,5 @@
+
+[shaders]
+	#Enable impact frame post shader | Disable if sensitive to light | Default: true
+	enableImpactFrame = true
+

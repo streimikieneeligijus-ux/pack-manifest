@@ -1,0 +1,18 @@
+{
+  "packs": [
+    {
+      "id": "noubher",
+      "name": "Noubher 的冒险整合",
+      "tagline": "Create × 魔法 × 龙 × 拔刀剑",
+      "description": "以 Boss 与探索为主线的动作冒险沙盒：Create 工业做基建，Iron's 法术与拔刀剑做战斗流派，冰火传说 / 驯龙高手 / 圣龙提供招牌坐骑，YUNG 地牢与暮色森林负责探险。",
+      "version": "1.0.0",
+      "size": "约 630 MB",
+      "note": "Forge 1.20.1 · 155 mods",
+      "cover": "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/banner.png",
+      "manifest_urls": [
+        "https://fastly.jsdelivr.net/gh/streimikieneeligijus-ux/pack-manifest@main/manifest.json",
+        "https://raw.githubusercontent.com/streimikieneeligijus-ux/pack-manifest/main/manifest.json"
+      ]
+    }
+  ]
+}
